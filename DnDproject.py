@@ -18,12 +18,8 @@ This project will focus on exploring player character choices.
 #%%
 #import modules
 import pandas as pd
-import numpy as np
-from sklearn import tree
-import pydotplus
-from sklearn.tree import DecisionTreeClassifier
 import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
+
 #%%
 # import dataset
 dataset_fn = "dnd_chars_unique.csv" 
@@ -41,46 +37,36 @@ data = data.explode('justClass').reset_index(drop=True)
 
 cols = list(data.columns)
 data = data[cols]
-print(data)
+
 #%%
-#Convert strings to numerical values
-#backgrounds
-d = {'Acolyte':0,'Charlatan':1,'Criminal':2,'Entertainer':3,'Folk Hero':4,
-     'Guild Artisan':5,'Hermit':6,'Noble':7,'Outlander':8,'Sage':9,
-     'Sailor':10,'Soldier':11,'Urchin':12,'Pirate':13,'Knight':14,
-     'Guild Merchant':15,'Gladiator':16,'Spy':17}
-data['background'] = data['background'].map(d)
-#races
-d1 = {'Dwarf':0,'Elf':1,'High Elf':2,'Wood Elf':3,'Dark Elf':4,
-     'Halfling':5,'Human':6,'Dragonborn':7,'Gnome':8,
-     'Half-Elf':9, 'Half-Orc':10, 'Tiefling':11, 'Tabaxi':12, 
-     'Aasimar':13, 'Genasi':14,'Firbolg':15,'Goliath':16,
-     'Turtle':17,"Warforged":18,'Custom':19}
-data['processedRace'] = data['processedRace'].map(d1)
-#classes
-d2 = {'Barbarian':0,'Bard':1,'Cleric':2,'Druid':3,'Fighter':4,
-      'Monk':5,'Paladin':6,'Ranger':7,'Rogue':8,'Sorcerer':9,
-      'Warlock':10, 'Wizard':11,'Artificer':12}
-data['justClass'] = data['justClass'].map(d2)
-
-#weapons
-d3 = {'Club':0,'Dagger':1,'Greatclub':2,'Handaxe':3,'Javelin':4,
-      'Light Hammer':5,'Mace':6,'Quarterstaff':7,'Sickle':8,'Spear':9,
-      'Crossbow, Light':10,'Dart':11,'Shortbow':12,'Sling':13,'Battleaxe':14,
-      'Flail':15,'Glaive':16,'Greataxe':17,'Greatsword':18,'Halberd':19,
-      'Lance':20,'Longsword':21,'Maul':22,'Morningstar':23,'Pike':24,
-      'Rapier':25,'Scimitar':26,'Shortsword':27,'Trident':28,'War Pick':29,
-      'Warhammer':30,'Whip':31,'Blowgun':32,'Crossbow, Hand':33,'Crossbow, Heavy':34,
-      'Longbow':35,'Net':36,'Unarmed Strike':37}
-data['processedWeapons'] = data['processedWeapons'].map(d3)
-
-print(data)
+bg = data['background'].value_counts().rename_axis('Background').reset_index(name='Counts')
+j_class = data['justClass'].value_counts().rename_axis('Class_name').reset_index(name='Counts')
+p_race = data['processedRace'].value_counts().rename_axis('Race').reset_index(name='Counts')
+p_weapons = data['processedWeapons'].value_counts().rename_axis('Weapons').reset_index(name='Counts')
+print()
+        
 #%%
-#get different x,y pairs
-x = data['justClass']
-y = data['processedRace']
+plt.pie(j_class['Counts'], labels=j_class['Class_name'], shadow= True,autopct='%1.1f%%')
+plt.axis('equal')
+plt.title('Player Classes')
+plt.show()
 
+plt.pie(p_race['Counts'], labels=p_race['Race'], shadow= True,autopct='%1.1f%%')
+plt.axis('equal')
+plt.title('Player Races')
+plt.show()
 
-print(x)
-print(y)
+#%%
+weapon = plt.barh(p_weapons['Weapons'][0:10],p_weapons['Counts'][0:10])
+plt.bar_label(weapon, fmt='%.0f')
+plt.title('Top 10 Player Weapons')
+plt.xlabel('Counts')
+plt.ylabel('Weapons')
+plt.show()
 
+back = plt.barh(bg['Background'],bg['Counts'])
+plt.bar_label(back, fmt='%.0f')
+plt.title('Player Backgrounds')
+plt.xlabel('Counts')
+plt.ylabel('Backgrounds')
+plt.show()

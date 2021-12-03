@@ -27,7 +27,7 @@ Hermit,Druid,20,203,14,Genasi,Quarterstaff|Scimitar
 Noble,Paladin,20,279,20,Goliath,Warhammer|Javelin
 Sailor,Barbarian,20,301,22,Human,Glaive|Javelin|Javelin
 Sailor,Warlock,20,202,13,Half-Orc,Scimitar
-Acolyte,Paladin,20,255,24,Half-Elf,Longsword|Longsword|Longsword|
+Acolyte,Paladin,20,255,24,Half-Elf,Longsword|Longsword|Longsword
 Acolyte,Paladin,20,225,19,Tiefling,Battleaxe|Dagger
 Noble,Wizard,20,260,20,Human,Dagger
 Charlatan,Cleric,20,103,13,Tiefling,"Mace|Crossbow, Light"
@@ -69,16 +69,16 @@ Soldier,Fighter,18,186,16,Human,"Crossbow, Heavy|Longsword|Crossbow, Light"
 Charlatan,Druid,18,195,17,Human,Scimitar
 Noble,Wizard,18,146,13,Human,Quarterstaff
 Urchin,Wizard,18,114,17,Gnome,Quarterstaff
-Soldier,Cleric,17,156,20,Human,"Mace|Crossbow, Light||"
+Soldier,Cleric,17,156,20,Human,"Mace|Crossbow, Light"
 Sailor,Sorcerer,17,117,18,Dragonborn,"Crossbow, Light|Dagger"
-Entertainer,Bard,17,178,23,Halfling,"Dagger|Rapier|Longsword|Shortsword|Scimitar|Crossbow, hand|"
+Entertainer,Bard,17,178,23,Halfling,"Dagger|Rapier|Longsword|Shortsword|Scimitar|Crossbow, hand"
 Charlatan,Rogue,17,139,16,Halfling,Rapier|Shortbow|Dagger
 Sage,Sorcerer,17,125,12,Tiefling,Dagger
 Outlander,Druid,17,166,14,Human,None
 Noble,Cleric,17,149,18,Human,Mace
 Acolyte,Warlock,17,125,16,Human,"Crossbow, Light|Dagger"
 Outlander,Fighter,17,174,16,Half-Orc,Greataxe|Longbow|Handaxe
-Urchin,Fighter,16,187,17,Elf,"Longbow|Warhammer|Crossbow, Light|"
+Urchin,Fighter,16,187,17,Elf,"Longbow|Warhammer|Crossbow, Light"
 Acolyte,Bard,16,118,11,Half-Orc,Rapier|Dagger|Shortbow
 Criminal,Rogue,16,117,17,Tabaxi,Rapier|Shortbow|Dagger
 Hermit,Druid,16,134,15,Elf,None
@@ -107,10 +107,10 @@ Urchin,Warlock,15,132,14,Halfling,Light hammer|Sling|Dagger
 Hermit,Artificer,15,138,14,Goblin,"Handaxe|Mace|Crossbow, Light"
 Guild Artisan,Artificer,15,144,15,Goblin,"Dagger|Light hammer|Crossbow, Light"
 Entertainer,Bard,15,135,13,Firbolg,Longsword|Dagger
-Criminal,Monk,15,138,18,Human,Shortsword|Dart|Unarmed Strike|
+Criminal,Monk,15,138,18,Human,Shortsword|Dart|Unarmed Strike
 Criminal,Rogue,15,97,15,Tabaxi,Rapier|Shortbow|Dagger
 Sage,Wizard,15,137,17,Elf,Quarterstaff|Dagger
-Outlander,Paladin,15,142,27,Aasimar,Glaive|Longsword|Longbow||
+Outlander,Paladin,15,142,27,Aasimar,Glaive|Longsword|Longbow
 Entertainer,Fighter,15,180,17,Half-Orc,"Lance|Warhammer|Crossbow, Light"
 Soldier,Fighter,15,106,16,Half-Elf,"Greatsword|Longbow|Crossbow, Light"
 Sage,Wizard,15,62,12,Human,Quarterstaff
@@ -130,7 +130,7 @@ Acolyte,Cleric,15,118,18,Elf,"Mace|Crossbow, Light"
 Folk Hero,Druid,15,118,14,Elf,Quarterstaff|Scimitar
 Urchin,Rogue,15,104,14,Elf,Rapier|Shortbow|Dagger
 Folk Hero,Barbarian,15,202,16,Goliath,Greataxe|Javelin
-Criminal,Artificer,14,101,22,Warforged,Whip|Halberd|Dagger||Longbow|Javelin
+Criminal,Artificer,14,101,22,Warforged,Whip|Halberd|Dagger|Longbow|Javelin
 Soldier,Warlock,14,136,12,Tiefling,Dagger
 Noble,Wizard,14,107,11,Elf,Longsword
 Entertainer,Bard,14,134,17,Tiefling,Dagger|Rapier|Rapier
@@ -142,7 +142,7 @@ Spy,Sorcerer,14,168,11,Human,"Crossbow, Light|Dagger"
 Soldier,Barbarian,14,238,15,Human,Greataxe|Handaxe|Javelin
 Soldier,Fighter,14,173,17,Warforged,"Greataxe|Crossbow, Light"
 Hermit,Monk,14,135,19,Elf,Quarterstaff|Dart|Unarmed Strike
-Soldier,Fighter,14,115,19,Human,Longbow|Rapier|Shortsword|Shortsword|
+Soldier,Fighter,14,115,19,Human,Longbow|Rapier|Shortsword|Shortsword
 Sailor,Paladin,14,169,16,Aasimar,None
 Sailor,Rogue,14,143,16,Aasimar,None
 Hermit,Druid,14,154,12,Elf,None
@@ -154,12 +154,12 @@ Guild Artisan,Rogue,14,143,15,Human,Shortsword|Shortbow|Dagger
 Sage,Wizard,14,100,11,Human,Quarterstaff
 Charlatan,Monk,14,101,17,Halfling,Spear|Dart|Unarmed Strike
 Sage,Wizard,14,92,10,Human,Quarterstaff
-Urchin,Ranger,14,167,17,Elf,Shortsword|Longbow|Shortsword||Longbow
+Urchin,Ranger,14,167,17,Elf,Shortsword|Longbow|Shortsword|Longbow
 Sage,Wizard,14,72,12,Custom,Quarterstaff
 Acolyte,Cleric,14,138,18,Firbolg,Mace|Mace
 Outlander,Barbarian,14,219,20,Human,Rapier|Longbow|Rapier
 Sage,Sorcerer,14,103,17,Tiefling,"Quarterstaff|Dagger|Dart|Longbow|Crossbow, Light|Trident|Shortsword"
-Knight,Paladin,14,129,21,Dragonborn,Unarmed Strike|Battleaxe|Halberd|Longbow|Mace|||Rapier
+Knight,Paladin,14,129,21,Dragonborn,Unarmed Strike|Battleaxe|Halberd|Longbow|Mace|Rapier
 Criminal,Rogue,14,101,19,Halfling,Shortsword|Shortbow|Dagger
 Soldier,Fighter,14,158,19,Human,War pick|Handaxe
 Outlander,Wizard,14,58,19,Human,Quarterstaff
@@ -173,7 +173,7 @@ Criminal,Fighter,13,184,17,Genasi,"Battleaxe|Battleaxe|Crossbow, Light"
 Noble,Druid,13,146,16,Half-Orc,Scimitar|Javelin|Longsword
 Noble,Sorcerer,13,101,18,Elf,Dagger|Quarterstaff
 Criminal,Rogue,13,130,16,Aasimar,Rapier|Shortbow|Dagger
-Outlander,Paladin,13,143,21,Half-Elf,Warhammer|Quarterstaff|Longbow||Longsword
+Outlander,Paladin,13,143,21,Half-Elf,Warhammer|Quarterstaff|Longbow|Longsword
 Criminal,Rogue,13,107,18,Elf,Shortsword|Dagger|Longbow
 Entertainer,Bard,13,115,18,Human,Rapier|Dagger
 Outlander,Ranger,13,95,16,Tabaxi,Shortsword|Longbow
@@ -200,7 +200,7 @@ Acolyte,Paladin,12,176,21,Dwarf,Warhammer|Javelin
 Urchin,Wizard,12,74,12,Human,Dagger
 Outlander,Ranger,12,112,17,Human,"Shortsword|Crossbow, Heavy|Crossbow, hand"
 Criminal,Rogue,12,97,15,Tiefling,Rapier|Shortbow|Dagger
-Criminal,Rogue,12,141,19,Elf,Rapier|Shortbow|Dagger|Shortbow|Dagger||||
+Criminal,Rogue,12,141,19,Elf,Rapier|Shortbow|Dagger|Shortbow|Dagger
 Sage,Bard,12,108,17,Halfling,Rapier|Dagger
 Outlander,Fighter,12,100,16,Tiefling,"Longbow|Crossbow, Light"
 Folk Hero,Cleric,12,99,16,Tabaxi,Mace
@@ -239,8 +239,8 @@ Charlatan,Rogue,12,120,16,Tiefling,Rapier|Shortbow|Dagger
 Guild Artisan,Paladin,12,144,18,Elf,Warhammer|Javelin
 Sage,Warlock,12,108,16,Half-Elf,"Crossbow, Light|Dagger"
 Guild Artisan,Fighter,12,144,18,Aasimar,Longbow|Scimitar|Handaxe
-Folk Hero,Ranger,12,89,16,Tabaxi,Longbow|Trident|Net||Rapier
-Folk Hero,Paladin,12,124,18,Turtle,Battleaxe|Javelin||Greataxe|
+Folk Hero,Ranger,12,89,16,Tabaxi,Longbow|Trident|Net|Rapier
+Folk Hero,Paladin,12,124,18,Turtle,Battleaxe|Javelin|Greataxe
 Folk Hero,Fighter,12,112,20,Half-Orc,"Greatsword|Battleaxe|Battleaxe|Crossbow, Light|Unarmed Strike"
 Criminal,Rogue,12,75,14,Tabaxi,Rapier|Shortbow|Dagger
 Outlander,Ranger,12,131,16,Elf,Shortsword|Longbow
@@ -266,7 +266,7 @@ Soldier,Fighter,11,95,21,Human,None
 Outlander,Monk,11,89,16,Human,Javelin|Handaxe|Unarmed Strike
 Outlander,Ranger,11,92,16,Human,"Shortsword|Crossbow, hand"
 Noble,Warlock,11,88,11,Human,Quarterstaff|Shortbow|Dagger
-Sage,Warlock,11,88,12,Human,"Crossbow, Light|Dart|Dagger|"
+Sage,Warlock,11,88,12,Human,"Crossbow, Light|Dart|Dagger"
 Knight,Fighter,11,92,17,Human,Longbow|Longbow|Shortsword
 Knight,Paladin,11,109,20,Human,Flail|Javelin|Morningstar
 Acolyte,Cleric,11,108,17,Dwarf,"Warhammer|Crossbow, Light"
@@ -278,7 +278,7 @@ Entertainer,Barbarian,11,115,14,Goliath,Greataxe|Handaxe|Javelin
 Sage,Sorcerer,11,68,12,Human,"Crossbow, Light|Dagger"
 Outlander,Monk,11,54,19,Elf,Unarmed Strike|Dagger
 Knight,Cleric,11,81,16,Aasimar,"Mace|Crossbow, Light|Quarterstaff|Dagger|Longbow|Greataxe|Greatsword"
-Entertainer,Bard,11,97,18,Tiefling,Rapier|Dagger|
+Entertainer,Bard,11,97,18,Tiefling,Rapier|Dagger
 Outlander,Cleric,11,78,20,Elf,Longbow|Quarterstaff|Sling|Unarmed Strike
 Hermit,Ranger,11,92,16,Human,Shortsword|Longbow
 Criminal,Rogue,11,69,16,Human,Shortsword|Dagger|Scimitar
@@ -312,7 +312,7 @@ Folk Hero,Paladin,10,92,21,Aasimar,Longsword|Javelin
 Criminal,Rogue,10,80,17,Halfling,Shortsword|Shortbow|Dagger
 Soldier,Paladin,10,114,22,Aasimar,Warhammer|Javelin
 Entertainer,Bard,10,81,12,Aasimar,Rapier|Dagger|Javelin
-Urchin,Monk,10,89,18,Halfling,Spear|Dart|Unarmed Strike|
+Urchin,Monk,10,89,18,Halfling,Spear|Dart|Unarmed Strike
 Urchin,Barbarian,10,130,16,Warforged,Greataxe|Handaxe|Javelin
 Acolyte,Warlock,10,54,12,Human,"Crossbow, Light|Dagger"
 Entertainer,Bard,10,90,13,Half-Elf,Rapier|Dagger
@@ -342,10 +342,10 @@ Sage,Druid,10,75,16,Tiefling,Dart|Dagger|Quarterstaff
 Acolyte,Cleric,10,78,18,Firbolg,"Mace|Crossbow, Light"
 Folk Hero,Bard,10,63,11,Dwarf,Rapier|Dagger
 Hermit,Monk,10,80,17,Elf,Spear|Dart|Unarmed Strike
-Entertainer,Bard,10,73,15,Custom,Rapier|Dagger|
+Entertainer,Bard,10,73,15,Custom,Rapier|Dagger
 Sage,Wizard,10,49,12,Tiefling,Dagger
 Sage,Cleric,10,98,18,Dragonborn,Mace|Javelin
-Soldier,Paladin,10,112,21,Human,"Longsword|Javelin|Crossbow, Heavy||Dagger|"
+Soldier,Paladin,10,112,21,Human,"Longsword|Javelin|Crossbow, Heavy|Dagger"
 Soldier,Monk,10,83,17,Human,Unarmed Strike
 Soldier,Barbarian,10,115,17,Human,Greataxe
 Soldier,Sorcerer,10,86,12,Human,"Crossbow, Light|Quarterstaff"
@@ -413,14 +413,14 @@ Outlander,Fighter,9,87,18,Half-Orc,Longsword|Greataxe
 Entertainer,Rogue,9,59,15,Tabaxi,Rapier|Shortbow|Dagger
 Hermit,Druid,9,66,16,Genasi,None
 Criminal,Sorcerer,9,63,18,Genasi,"Crossbow, Light|Quarterstaff"
-Charlatan,Rogue,9,67,14,Elf,Shortbow|Dagger|Rapier|Dagger|Dagger|Dagger||Rapier|Dagger
+Charlatan,Rogue,9,67,14,Elf,Shortbow|Dagger|Rapier|Dagger|Dagger|Dagger|Rapier|Dagger
 Criminal,Rogue,9,52,17,Human,Shortsword|Shortbow|Dagger|Dagger|Rapier
 Soldier,Fighter,9,94,16,Human,"Greataxe|Battleaxe|Crossbow, Light"
 Outlander,Rogue,9,42,17,Elf,Rapier|Dagger|Longbow
 Charlatan,Rogue,9,57,16,Tabaxi,Rapier|Shortbow|Dagger
-Sage,Artificer,9,66,20,Human,"Dagger|Quarterstaff|Crossbow, Light|"
+Sage,Artificer,9,66,20,Human,"Dagger|Quarterstaff|Crossbow, Light"
 Folk Hero,Monk,9,57,17,Turtle,Unarmed Strike|Dart|Unarmed Strike
-Sailor,Bard,9,87,16,Half-Elf,Rapier|Dagger|
+Sailor,Bard,9,87,16,Half-Elf,Rapier|Dagger
 Soldier,Artificer,9,35,16,Tiefling,"Javelin|Dagger|Crossbow, Light"
 Knight,Warlock,9,66,17,Half-Elf,Quarterstaff|Dagger
 Hermit,Druid,9,68,13,Human,None
@@ -433,7 +433,7 @@ Knight,Cleric,9,66,16,Dragonborn,"Mace|Crossbow, Light|Dagger"
 Outlander,Monk,9,66,15,Tabaxi,Quarterstaff|Dart|Unarmed Strike
 Folk Hero,Fighter,9,66,18,Dragonborn,"Crossbow, Heavy|Handaxe|Crossbow, Light"
 Sailor,Barbarian,9,95,15,Human,Greataxe|Longsword
-Soldier,Fighter,9,63,20,Dwarf,Battleaxe|Battleaxe|Handaxe|
+Soldier,Fighter,9,63,20,Dwarf,Battleaxe|Battleaxe|Handaxe
 Sage,Cleric,9,66,18,Human,"Mace|Crossbow, Light|Quarterstaff|Dagger|Handaxe"
 Noble,Wizard,9,63,11,Tiefling,Dagger
 Sailor,Bard,9,45,16,Dragonborn,Longsword|Dagger
@@ -450,21 +450,21 @@ Outlander,Barbarian,9,111,16,Half-Orc,Greataxe|Handaxe|Javelin
 Folk Hero,Ranger,9,76,16,Elf,Shortsword|Longbow
 Charlatan,Warlock,9,72,14,Aasimar,Shortbow|Rapier|Dagger
 Noble,Wizard,9,56,10,Genasi,Quarterstaff
-Noble,Paladin,9,83,16,Dragonborn,Greataxe|Maul|Handaxe|
+Noble,Paladin,9,83,16,Dragonborn,Greataxe|Maul|Handaxe
 Soldier,Barbarian,9,106,19,Dwarf,Greataxe|Handaxe|Javelin|Unarmed Strike
 Entertainer,Rogue,9,83,14,Human,Shortsword|Shortsword|Dagger
-Soldier,Fighter,9,100,19,Half-Orc,Greataxe|Warhammer|Handaxe|Longsword|Longsword|Halberd|||Javelin|Javelin
+Soldier,Fighter,9,100,19,Half-Orc,Greataxe|Warhammer|Handaxe|Longsword|Longsword|Halberd|Javelin|Javelin
 Soldier,Sorcerer,9,73,13,Dragonborn,Quarterstaff|Dagger
 Soldier,Wizard,9,67,13,Gnome,Dagger
 Noble,Ranger,9,67,15,Elf,Shortsword|Longbow
-Hermit,Monk,9,86,19,Elf,Dart|Unarmed Strike||Dagger
+Hermit,Monk,9,86,19,Elf,Dart|Unarmed Strike|Dagger
 Charlatan,Rogue,9,66,14,Tabaxi,Shortsword|Shortsword|Dagger
 Outlander,Ranger,9,76,16,Tiefling,Shortsword|Longbow
 Soldier,Fighter,9,85,16,Human,Glaive|Handaxe
 Noble,Rogue,9,45,13,Half-Orc,Shortsword|Shortbow|Dagger
 Soldier,Barbarian,9,90,17,Goblin,Maul|Handaxe|Javelin
 Guild Artisan,Warlock,9,75,14,Gnome,"Crossbow, Light|Dagger"
-Noble,Bard,9,73,16,Human,Rapier|Dagger||Dagger|
+Noble,Bard,9,73,16,Human,Rapier|Dagger|Dagger
 Urchin,Fighter,9,73,18,Goblin,Dagger
 Criminal,Wizard,9,38,17,Human,Dagger
 Criminal,Monk,9,57,16,Human,Shortsword|Dart|Unarmed Strike
@@ -480,7 +480,7 @@ Outlander,Fighter,9,85,16,Elf,Longsword|Longbow|Handaxe
 Guild Artisan,Warlock,9,75,13,Half-Elf,"Crossbow, Light|Dagger"
 Soldier,Fighter,9,101,18,Dwarf,Longsword|Handaxe
 Soldier,Fighter,9,103,20,Human,Longsword|Handaxe
-Knight,Paladin,9,121,21,Genasi,Halberd|Halberd|Handaxe|Dagger|Warhammer|
+Knight,Paladin,9,121,21,Genasi,Halberd|Halberd|Handaxe|Dagger|Warhammer
 Sailor,Barbarian,9,130,16,Half-Orc,Greataxe|Handaxe|Javelin|Greatsword
 Sailor,Barbarian,9,130,16,Half-Orc,Greataxe|Handaxe|Javelin|Greatsword
 Criminal,Wizard,9,61,12,Half-Elf,Quarterstaff
@@ -490,26 +490,26 @@ Charlatan,Rogue,8,57,15,Elf,Rapier|Shortbow|Dagger
 Hermit,Barbarian,8,89,14,Half-Orc,Greataxe|Handaxe|Javelin
 Folk Hero,Barbarian,8,69,14,Halfling,Greataxe|Handaxe|Javelin
 Entertainer,Bard,8,74,15,Halfling,Rapier|Dagger
-Charlatan,Artificer,8,63,16,Halfling,"Spear|Dagger|Crossbow, Light||Lance"
-Sage,Artificer,8,59,15,Half-Elf,Mace|Javelin|
+Charlatan,Artificer,8,63,16,Halfling,"Spear|Dagger|Crossbow, Light|Lance"
+Sage,Artificer,8,59,15,Half-Elf,Mace|Javelin
 Outlander,Rogue,8,51,22,Tabaxi,Rapier|Shortbow|Dagger|Scimitar|Scimitar
 Entertainer,Bard,8,63,14,Half-Elf,Rapier|Dagger
 Noble,Bard,8,59,11,Human,Dagger|Dagger
 Outlander,Ranger,8,91,16,Half-Elf,Shortsword|Longbow
 Acolyte,Cleric,8,75,13,Custom,Mace|Spear|Glaive
 Acolyte,Cleric,8,75,18,Custom,Mace|Spear|Glaive
-Outlander,Ranger,8,79,16,Custom,Shortsword|Longbow|Longsword|
+Outlander,Ranger,8,79,16,Custom,Shortsword|Longbow|Longsword
 Acolyte,Cleric,8,68,18,Human,"Mace|Crossbow, Light"
 Charlatan,Sorcerer,8,55,17,Human,"Crossbow, Light|Dagger"
-Acolyte,Cleric,8,67,14,Half-Orc,"Mace|Longsword|Crossbow, Light|"
-Criminal,Cleric,8,67,18,Dwarf,"Warhammer|Crossbow, Light|"
+Acolyte,Cleric,8,67,14,Half-Orc,"Mace|Longsword|Crossbow, Light"
+Criminal,Cleric,8,67,18,Dwarf,"Warhammer|Crossbow, Light"
 Noble,Warlock,8,80,14,Half-Elf,"Crossbow, Light|Dagger"
 Criminal,Rogue,8,59,16,Human,Rapier|Shortbow|Dagger
 Folk Hero,Sorcerer,8,56,13,Dwarf,Spear|Dagger
 Sailor,Rogue,8,52,15,Human,Rapier|Shortbow|Dagger
 Criminal,Rogue,8,51,14,Half-Elf,Rapier|Shortbow|Dagger
 Acolyte,Paladin,8,92,18,Elf,Scimitar|Javelin
-Urchin,Ranger,8,76,13,Elf,"Shortsword|Longbow|||Crossbow, hand||Longsword"
+Urchin,Ranger,8,76,13,Elf,"Shortsword|Longbow|Crossbow, hand|Longsword"
 Folk Hero,Artificer,8,59,13,Dwarf,"Quarterstaff|Mace|Crossbow, Light"
 Soldier,Fighter,8,93,19,Elf,"Battleaxe|Crossbow, Light"
 Guild Artisan,Sorcerer,8,78,10,Gnome,"Crossbow, Light|Dagger"
@@ -608,12 +608,12 @@ Entertainer,Bard,8,51,17,Half-Elf,"Dagger|Crossbow, Light"
 Sage,Druid,8,104,16,Dwarf,Scimitar
 Sage,Warlock,8,59,15,Human,Glaive
 Entertainer,Bard,8,51,14,Half-Elf,Rapier|Dagger
-Outlander,Barbarian,8,87,20,Dragonborn,"Shortsword|Crossbow, hand|Dagger|Net|"
+Outlander,Barbarian,8,87,20,Dragonborn,"Shortsword|Crossbow, hand|Dagger|Net"
 Urchin,Rogue,8,71,16,Tiefling,"Shortsword|Dagger|Crossbow, hand"
 Sailor,Barbarian,8,77,13,Half-Orc,Greataxe|Handaxe|Javelin
-Acolyte ,Cleric,8,62,19,Human,Mace|Dagger
+Acolyte,Cleric,8,62,19,Human,Mace|Dagger
 Criminal,Paladin,8,62,18,Half-Elf,Lance|Javelin|Longsword
-Sailor,Cleric,8,88,20,Human,"Crossbow, Light|Trident|"
+Sailor,Cleric,8,88,20,Human,"Crossbow, Light|Trident"
 Soldier,Wizard,8,49,14,Elf,Dagger|Spear
 Entertainer,Warlock,8,59,15,Human,Dagger
 Guild Artisan,Paladin,8,96,16,Human,Battleaxe|Greatsword|Javelin
@@ -671,7 +671,7 @@ Acolyte,Monk,7,52,16,Human,Unarmed Strike|Longsword|Longbow
 Outlander,Druid,7,47,17,Half-Orc,None
 Acolyte,Cleric,7,49,18,Elf,"Warhammer|Crossbow, Light"
 Urchin,Monk,7,54,17,Elf,Mace|Quarterstaff|Unarmed Strike|Shortbow
-Hermit,Barbarian,7,76,17,Human,Greataxe|Javelin|Greatsword||
+Hermit,Barbarian,7,76,17,Human,Greataxe|Javelin|Greatsword
 Outlander,Fighter,7,41,18,Half-Orc,"Crossbow, Light|Longsword"
 Noble,Paladin,7,53,24,Elf,"Rapier|Dagger|Crossbow, hand"
 Entertainer,Druid,7,45,16,Elf,Quarterstaff
@@ -726,7 +726,7 @@ Soldier,Warlock,7,73,16,Human,Greatsword
 Sage,Wizard,7,37,13,Elf,Dagger
 Sage,Warlock,7,50,15,Tiefling,Quarterstaff|Spear|Dagger
 Soldier,Ranger,7,74,16,Human,Handaxe|Dagger|Longbow
-Hermit,Monk,7,66,16,Dragonborn,Shortsword|Dart|Unarmed Strike|
+Hermit,Monk,7,66,16,Dragonborn,Shortsword|Dart|Unarmed Strike
 Hermit,Monk,7,68,17,Elf,Unarmed Strike|Dagger|Shortsword|Longbow|Longsword
 Hermit,Monk,7,57,16,Dragonborn,Shortsword|Dart|Unarmed Strike
 Soldier,Fighter,7,49,14,Elf,"Crossbow, Heavy|Lance"
@@ -758,7 +758,7 @@ Hermit,Cleric,7,53,18,Dwarf,"Mace|Crossbow, Light"
 Urchin,Rogue,7,51,15,Halfling,Shortsword|Shortbow|Dagger|Rapier
 Criminal,Monk,7,74,17,Human,Shortsword|Dart|Unarmed Strike
 Criminal,Monk,7,74,14,Human,Shortsword|Dart|Unarmed Strike
-Sailor,Fighter,7,56,12,Dwarf,"Greataxe|Crossbow, Heavy||Battleaxe"
+Sailor,Fighter,7,56,12,Dwarf,"Greataxe|Crossbow, Heavy|Battleaxe"
 Outlander,Druid,7,52,14,Firbolg,Scimitar
 Noble,Cleric,7,52,17,Elf,War pick|Rapier
 Soldier,Fighter,7,76,18,Halfling,"Maul|Longsword|Crossbow, Light"
@@ -781,7 +781,7 @@ Criminal,Rogue,6,47,16,Goblin,Shortsword|Shortbow|Dagger
 Soldier,Barbarian,6,70,15,Dwarf,Greataxe|Handaxe|Javelin
 Outlander,Fighter,6,59,18,Tabaxi,Battleaxe|Handaxe
 Sailor,Artificer,6,60,13,Dwarf,"Handaxe|Dagger|Crossbow, Light"
-Urchin,Monk,6,58,22,Elf,Shortsword|Dart|Unarmed Strike|Longsword|Longbow|||Shortbow|Javelin|Rapier
+Urchin,Monk,6,58,22,Elf,Shortsword|Dart|Unarmed Strike|Longsword|Longbow|Shortbow|Javelin|Rapier
 Urchin,Sorcerer,6,13,12,Tiefling,"Dagger|Crossbow, hand"
 Outlander,Barbarian,6,77,17,Human,Greataxe|Handaxe|Javelin
 Urchin,Rogue,6,17,14,Human,"Shortsword|Shortsword|Dagger|Crossbow, hand"
@@ -791,7 +791,7 @@ Guild Artisan,Artificer,6,51,16,Human,"Dagger|Quarterstaff|Crossbow, Light"
 Entertainer,Bard,6,34,13,Elf,Rapier|Dagger
 Sage,Sorcerer,6,31,10,Half-Elf,Quarterstaff|Dagger
 Outlander,Wizard,6,32,12,Human,Dagger
-Entertainer,Bard,6,72,16,Half-Elf,Rapier|Dagger|
+Entertainer,Bard,6,72,16,Half-Elf,Rapier|Dagger
 Sage,Sorcerer,6,60,15,Elf,Trident|Dagger
 Urchin,Rogue,6,45,16,Halfling,Rapier|Shortbow|Dagger|Dagger
 Noble,Paladin,6,59,18,Tiefling,War pick|Javelin
@@ -812,7 +812,7 @@ Outlander,Ranger,6,46,14,Elf,Longbow|Rapier
 Soldier,Ranger,6,78,18,Half-Elf,Shortsword|Longbow|Longsword
 Sage,Wizard,6,32,12,Elf,Quarterstaff
 Noble,Wizard,6,30,14,Elf,Dagger|Shortsword
-Folk Hero,Paladin,6,46,19,Gnome,"Javelin|Crossbow, Heavy||"
+Folk Hero,Paladin,6,46,19,Gnome,"Javelin|Crossbow, Heavy"
 Folk Hero,Wizard,6,34,13,Elf,Quarterstaff
 Soldier,Fighter,6,72,21,Elf,Rapier
 Sage,Monk,6,45,16,Human,Spear|Dart|Unarmed Strike
@@ -844,7 +844,7 @@ Sailor,Ranger,6,53,16,Halfling,Shortsword|Longbow
 Acolyte,Cleric,6,30,17,Dragonborn,"Mace|Crossbow, Light"
 Acolyte,Cleric,6,36,18,Elf,"Mace|Crossbow, Light"
 Sage,Wizard,6,24,12,Human,Quarterstaff
-Urchin,Ranger,6,54,15,Elf,Shortsword|Longbow|Club|
+Urchin,Ranger,6,54,15,Elf,Shortsword|Longbow|Club
 Acolyte,Cleric,6,39,14,Human,Mace
 Sage,Druid,6,45,14,Firbolg,None
 Charlatan,Rogue,6,44,16,Tabaxi,Rapier|Shortbow|Dagger
@@ -877,7 +877,7 @@ Outlander,Fighter,6,48,18,Human,"Longsword|Crossbow, Light"
 Outlander,Monk,6,36,15,Elf,Shortsword|Dart|Unarmed Strike
 Entertainer,Bard,6,36,14,Half-Elf,Rapier|Dagger
 Sage,Wizard,6,44,13,Elf,Quarterstaff
-Knight,Fighter,6,72,19,Warforged,"Maul|Greatsword|Crossbow, Light|"
+Knight,Fighter,6,72,19,Warforged,"Maul|Greatsword|Crossbow, Light"
 Criminal,Warlock,6,39,17,Human,"Dagger|Crossbow, hand|Scimitar"
 Sage,Wizard,6,42,13,Elf,Quarterstaff
 Sailor,Cleric,6,51,18,Human,Mace|Glaive
@@ -903,7 +903,7 @@ Urchin,Druid,6,44,12,Half-Elf,Sickle|Warhammer
 Criminal,Rogue,6,36,14,Halfling,Rapier|Shortsword|Dagger
 Sailor,Druid,6,51,14,Genasi,None
 Sailor,Rogue,6,41,15,Genasi,Rapier|Shortsword|Dagger
-Folk Hero,Paladin,6,52,17,Genasi,Trident||Net
+Folk Hero,Paladin,6,52,17,Genasi,Trident|Net
 Noble,Barbarian,6,90,15,Dragonborn,Greataxe|Handaxe|Javelin|Greataxe
 Criminal,Paladin,6,52,18,Half-Orc,Flail|Javelin
 Charlatan,Warlock,6,60,14,Tiefling,"Crossbow, Light|Dagger"
@@ -919,7 +919,7 @@ Acolyte,Cleric,6,48,17,Gnome,Mace|Dagger
 Acolyte,Warlock,6,27,12,Human,"Crossbow, Light|Dagger|Quarterstaff|Longbow"
 Folk Hero,Ranger,6,58,14,Human,Mace|Battleaxe
 Criminal,Monk,6,39,17,Human,Shortsword|Unarmed Strike
-Criminal,Fighter,6,61,15,Tiefling,Longbow|Shortsword|Scimitar|Longsword|Javelin||Longbow
+Criminal,Fighter,6,61,15,Tiefling,Longbow|Shortsword|Scimitar|Longsword|Javelin|Longbow
 Criminal,Sorcerer,6,44,12,Elf,"Crossbow, Light|Dagger"
 Noble,Fighter,6,59,18,Dragonborn,Longsword|Longbow|Greataxe
 Soldier,Fighter,6,72,15,Human,Longbow|Longbow|Scimitar|Handaxe
@@ -969,10 +969,10 @@ Acolyte,Paladin,6,78,19,Elf,Longsword|Javelin
 Noble,Sorcerer,6,54,19,Tiefling,Quarterstaff|Dagger
 Acolyte,Cleric,6,72,18,Aasimar,"Mace|Crossbow, Light"
 Outlander,Ranger,6,46,18,Tabaxi,Shortsword|Longbow|Shortsword|Longsword
-Soldier,Ranger,6,52,16,Half-Elf,Shortsword|Longbow|Shortsword|
+Soldier,Ranger,6,52,16,Half-Elf,Shortsword|Longbow|Shortsword
 Entertainer,Bard,6,45,12,Half-Orc,Rapier|Dagger
 Guild Artisan,Druid,6,-5,17,Elf,Scimitar
-Folk Hero,Fighter,6,52,16,Custom,"Longbow|Crossbow, Light|||Crossbow, hand"
+Folk Hero,Fighter,6,52,16,Custom,"Longbow|Crossbow, Light|Crossbow, hand"
 Folk Hero,Barbarian,6,78,15,Gnome,War pick|Shortbow
 Sage,Wizard,6,32,12,Gnome,Dagger
 Folk Hero,Paladin,6,40,19,Aasimar,Battleaxe|Javelin
@@ -988,7 +988,7 @@ Sage,Wizard,6,48,12,Human,Quarterstaff
 Outlander,Ranger,6,66,15,Elf,Dagger|Dagger|Longbow
 Acolyte,Cleric,6,54,17,Dragonborn,"Mace|Crossbow, Light"
 Soldier,Fighter,6,78,18,Dwarf,"Warhammer|Crossbow, Light"
-Acolyte,Cleric,6,54,17,Human,"Mace|Crossbow, Light|"
+Acolyte,Cleric,6,54,17,Human,"Mace|Crossbow, Light"
 Folk Hero,Fighter,6,68,17,Human,"Longsword|Crossbow, Light|Longsword"
 Knight,Ranger,6,51,14,Half-Orc,Sickle|Dagger|Longbow
 Acolyte,Wizard,6,37,12,Elf,"Dagger|Rapier|Crossbow, hand"
@@ -1043,7 +1043,7 @@ Outlander,Druid,5,44,15,Elf,Whip
 Criminal,Warlock,5,33,13,Human,Greatclub|Mace|Dagger
 Criminal,Warlock,5,38,10,Human,Greatclub|Greatclub|Dagger
 Acolyte,Cleric,5,53,18,Dwarf,Warhammer|Handaxe
-Hermit,Druid,5,60,17,Human,Club|Sling||||Club
+Hermit,Druid,5,60,17,Human,Club|Sling|Club
 Criminal,Warlock,5,33,12,Human,"Crossbow, Light|Dagger"
 Folk Hero,Ranger,5,44,14,Elf,Shortsword|Longbow
 Noble,Sorcerer,5,35,15,Tiefling,"Crossbow, Light|Dagger"
@@ -1095,7 +1095,7 @@ Noble,Fighter,5,44,13,Tabaxi,"Crossbow, Heavy|Crossbow, Light|Quarterstaff"
 Soldier,Rogue,5,33,15,Warforged,Shortsword|Shortsword|Dagger
 Urchin,Druid,5,38,15,Human,Scimitar
 Folk Hero,Druid,5,46,15,Half-Orc,Scimitar
-Urchin,Rogue,5,30,15,Half-Orc,"Rapier|Dagger|Crossbow, hand||"
+Urchin,Rogue,5,30,15,Half-Orc,"Rapier|Dagger|Crossbow, hand"
 Entertainer,Bard,5,24,13,Tiefling,Rapier|Dagger
 Urchin,Rogue,5,45,13,Dragonborn,Dagger|Longsword|Shortbow|Spear|Dagger
 Sage,Warlock,5,49,11,Half-Elf,Quarterstaff|Handaxe|Dagger
@@ -1189,7 +1189,7 @@ Acolyte,Warlock,5,38,15,Aasimar,Longsword
 Urchin,Warlock,5,35,11,Half-Elf,"Crossbow, Light|Dagger"
 Hermit,Druid,5,35,13,Tiefling,Scimitar
 Charlatan,Sorcerer,5,32,12,Gnome,Sling|Dagger
-Sailor,Rogue,5,38,18,Turtle,Rapier|Rapier|Shortbow|Dagger|
+Sailor,Rogue,5,38,18,Turtle,Rapier|Rapier|Shortbow|Dagger
 Urchin,Rogue,5,30,14,Tiefling,Rapier|Shortbow|Dagger
 Soldier,Fighter,5,44,18,Human,"Greatsword|Greatsword|Crossbow, Light"
 Noble,Sorcerer,5,30,11,Aasimar,"Crossbow, Light|Dagger"
@@ -1208,7 +1208,7 @@ Outlander,Cleric,5,30,19,Turtle,Mace|Quarterstaff
 Folk Hero,Barbarian,5,60,17,Dwarf,Greataxe|Handaxe|Javelin
 Soldier,Barbarian,5,66,17,Aasimar,Greataxe|Javelin
 Outlander,Cleric,5,48,17,Dwarf,"Mace|Mace|Crossbow, Light"
-Outlander,Druid,5,36,19,Elf,Handaxe|Handaxe|Club|Club|Shortsword|||
+Outlander,Druid,5,36,19,Elf,Handaxe|Handaxe|Club|Club|Shortsword
 Acolyte,Cleric,5,46,18,Half-Elf,Mace|Spear
 Acolyte,Sorcerer,5,37,10,Human,Dagger
 Soldier,Barbarian,5,67,14,Human,Greataxe|Javelin|Greatsword
@@ -1259,8 +1259,8 @@ Criminal,Rogue,5,30,14,Half-Elf,Rapier|Shortbow|Dagger
 Sage,Wizard,5,23,10,Human,Dagger
 Criminal,Rogue,5,26,13,Human,Shortsword|Dagger|Scimitar
 Knight,Paladin,5,46,21,Human,Warhammer|Shortsword
-Urchin,Rogue,5,24,14,Human,"Dagger|Scimitar|Crossbow, Light|"
-Acolyte,Cleric,5,63,17,Dwarf,"Mace|Crossbow, Light|"
+Urchin,Rogue,5,24,14,Human,"Dagger|Scimitar|Crossbow, Light"
+Acolyte,Cleric,5,63,17,Dwarf,"Mace|Crossbow, Light"
 Outlander,Ranger,5,39,14,Tabaxi,Shortsword|Longbow
 Soldier,Fighter,5,38,16,Tiefling,"Longsword|Crossbow, Light|Longsword"
 Sailor,Rogue,5,43,16,Halfling,Rapier|Rapier|Shortbow
@@ -1310,7 +1310,7 @@ Hermit,Paladin,5,38,16,Human,Warhammer|Whip|Javelin
 Urchin,Rogue,5,45,14,Human,Rapier|Shortbow|Dagger
 Outlander,Druid,5,50,16,Tabaxi,Dart|Quarterstaff
 Criminal,Rogue,5,33,18,Elf,Shortsword|Shortbow|Dagger
-Acolyte,Warlock,5,38,14,Half-Elf,Sickle|Quarterstaff|Dagger||
+Acolyte,Warlock,5,38,14,Half-Elf,Sickle|Quarterstaff|Dagger
 Sailor,Fighter,5,56,16,Dragonborn,"Rapier|Crossbow, Light"
 Outlander,Paladin,5,53,16,Firbolg,Greataxe|Warhammer|Javelin
 Criminal,Rogue,5,41,14,Human,Rapier|Shortbow|Dagger
@@ -1325,7 +1325,7 @@ Outlander,Ranger,5,41,16,Elf,Shortsword|Longbow|Handaxe|Dagger
 Hermit,Rogue,5,38,16,Tabaxi,Rapier|Shortbow|Dagger|Scimitar|Net
 Soldier,Ranger,5,39,20,Elf,Longbow|Rapier|Longsword
 Soldier,Fighter,5,44,18,Dwarf,Greatsword|Whip|Warhammer|Handaxe|Longsword
-Charlatan,Cleric,5,38,17,Goblin,"Mace|Dagger|Crossbow, Light|"
+Charlatan,Cleric,5,38,17,Goblin,"Mace|Dagger|Crossbow, Light"
 Acolyte,Barbarian,5,64,19,Half-Orc,"Greataxe|Handaxe|Javelin|Crossbow, Heavy"
 Knight,Fighter,5,44,16,Elf,"Crossbow, Light"
 Soldier,Fighter,5,44,18,Elf,"Longsword|Crossbow, Light"
@@ -1336,10 +1336,10 @@ Urchin,Bard,5,41,13,Half-Elf,Shortbow|Dagger
 Hermit,Cleric,5,38,16,Dragonborn,"Mace|Crossbow, Light"
 Outlander,Fighter,5,53,16,Elf,"Greatsword|Longsword|Crossbow, Light"
 Charlatan,Bard,5,28,14,Human,"Rapier|Dagger|Crossbow, Light"
-Urchin,Ranger,5,50,17,Goblin,Shortbow|Dart|Dagger|
+Urchin,Ranger,5,50,17,Goblin,Shortbow|Dart|Dagger
 Sailor,Barbarian,5,36,14,Human,Trident|Handaxe|Javelin
 Hermit,Ranger,5,65,16,Half-Elf,Shortsword|Longbow
-Acolyte,Cleric,5,49,14,Dwarf,"Warhammer|Crossbow, Light|"
+Acolyte,Cleric,5,49,14,Dwarf,"Warhammer|Crossbow, Light"
 Outlander,Sorcerer,5,35,10,Tiefling,"Crossbow, Light|Dagger"
 Outlander,Druid,5,50,13,Firbolg,Scimitar
 Outlander,Sorcerer,5,40,14,Aasimar,Dagger
@@ -1463,9 +1463,9 @@ Sage,Wizard,5,30,10,Elf,Quarterstaff
 Criminal,Druid,5,43,14,Gnome,None
 Urchin,Bard,5,41,14,Dragonborn,Longsword|Dagger
 Noble,Monk,5,33,17,Tabaxi,Quarterstaff|Dart|Unarmed Strike
-Hermit,Barbarian,5,50,17,Turtle,Greataxe|Handaxe|Javelin|
+Hermit,Barbarian,5,50,17,Turtle,Greataxe|Handaxe|Javelin
 Acolyte,Monk,5,38,16,Aasimar,Quarterstaff|Dart|Unarmed Strike
-Urchin,Druid,5,48,14,Dwarf,Quarterstaff|Scimitar|
+Urchin,Druid,5,48,14,Dwarf,Quarterstaff|Scimitar
 Sailor,Cleric,5,58,17,Dwarf,"Mace|Crossbow, Light"
 Guild Artisan,Rogue,5,42,17,Halfling,"Rapier|Dagger|Crossbow, hand"
 Entertainer,Warlock,5,43,20,Half-Elf,Dagger|Longbow
@@ -1549,7 +1549,7 @@ Outlander,Fighter,5,48,16,Human,Longbow|Scimitar|Handaxe
 Sailor,Paladin,5,54,17,Dwarf,Maul|Battleaxe|Handaxe
 Outlander,Barbarian,5,68,17,Dragonborn,"Javelin|Javelin|Maul|Crossbow, Heavy"
 Pirate,Paladin,5,44,18,Dragonborn,Warhammer|Javelin
-Hermit,Monk,5,45,17,Human,Dart|Unarmed Strike|
+Hermit,Monk,5,45,17,Human,Dart|Unarmed Strike
 Sailor,Barbarian,5,55,16,Dwarf,Warhammer|Handaxe|Javelin
 Acolyte,Warlock,4,31,12,Genasi,"Crossbow, Light|Dagger"
 Noble,Sorcerer,4,34,14,Genasi,Quarterstaff|Dagger
@@ -1570,10 +1570,10 @@ Folk Hero,Sorcerer,4,22,16,Tiefling,Dagger|Dagger
 Entertainer,Rogue,4,27,14,Aasimar,Rapier|Shortbow|Dagger
 Sage,Artificer,4,42,11,Gnome,"Light hammer|Dagger|Crossbow, Light"
 Sailor,Paladin,4,44,13,Human,Lance|Javelin|Scimitar|Scimitar|Scimitar
-Guild Artisan,Warlock,4,29,15,Human,"Crossbow, Light|Dagger|Quarterstaff|"
+Guild Artisan,Warlock,4,29,15,Human,"Crossbow, Light|Dagger|Quarterstaff"
 Criminal,Rogue,4,32,14,Tiefling,Rapier|Shortbow|Dagger
-Guild Artisan,Warlock,4,27,16,Human,Dagger|Longsword||
-Sailor,Barbarian,4,53,17,Half-Orc,Pike|Unarmed Strike||
+Guild Artisan,Warlock,4,27,16,Human,Dagger|Longsword
+Sailor,Barbarian,4,53,17,Half-Orc,Pike|Unarmed Strike
 Outlander,Monk,4,31,19,Turtle,Spear|Dart|Unarmed Strike
 Hermit,Monk,4,31,19,Turtle,Shortsword|Dart|Unarmed Strike
 Outlander,Barbarian,4,49,13,Dwarf,Warhammer|Handaxe|Javelin
@@ -1642,7 +1642,7 @@ Criminal,Rogue,4,30,15,Half-Elf,Rapier|Shortbow|Dagger
 Charlatan,Cleric,4,31,16,Human,"Crossbow, Light|Dagger"
 Urchin,Monk,4,27,17,Human,Quarterstaff|Dart|Unarmed Strike
 Outlander,Ranger,4,36,15,Elf,Shortsword|Longbow
-Sage,Druid,4,31,15,Genasi,Spear|Dagger|Quarterstaff|Club||Scimitar
+Sage,Druid,4,31,15,Genasi,Spear|Dagger|Quarterstaff|Club|Scimitar
 Entertainer,Rogue,4,20,14,Elf,Shortsword|Shortbow|Dagger
 Sage,Druid,4,23,14,Half-Elf,None
 Folk Hero,Cleric,4,34,17,Elf,"Mace|Crossbow, Light"
@@ -1689,7 +1689,7 @@ Acolyte,Monk,4,27,17,Elf,Shortsword|Dart|Unarmed Strike
 Outlander,Barbarian,4,41,14,Half-Orc,Greataxe|Handaxe|Javelin
 Noble,Fighter,4,44,18,Human,"Battleaxe|Crossbow, Light"
 Hermit,Wizard,4,26,12,Gnome,Quarterstaff
-Knight,Monk,4,32,15,Human,Dart|Unarmed Strike||Greatclub
+Knight,Monk,4,32,15,Human,Dart|Unarmed Strike|Greatclub
 Sage,Druid,4,27,13,Gnome,Dagger|Quarterstaff
 Hermit,Druid,4,31,11,Firbolg,Sickle|Spear
 Acolyte,Paladin,4,32,18,Tabaxi,Longsword|Javelin
@@ -1711,7 +1711,7 @@ Acolyte,Ranger,4,39,17,Elf,Shortsword|Longbow|Spear
 Acolyte,Sorcerer,4,24,15,Dragonborn,"Crossbow, Light|Dagger"
 Folk Hero,Monk,4,24,16,Gnome,Shortsword|Dart|Unarmed Strike
 Charlatan,Sorcerer,4,31,11,Half-Elf,"Crossbow, Light|Dagger"
-Acolyte,Rogue,4,45,18,Half-Elf,Rapier|Shortbow|Dagger|Longbow|
+Acolyte,Rogue,4,45,18,Half-Elf,Rapier|Shortbow|Dagger|Longbow
 Hermit,Ranger,4,28,16,Elf,Shortsword|Longbow
 Outlander,Paladin,4,28,18,Aasimar,Greatsword
 Knight,Barbarian,4,32,13,Human,Greataxe|Handaxe|Javelin
@@ -1767,7 +1767,7 @@ Acolyte,Sorcerer,4,26,12,Elf,"Crossbow, Light|Dagger"
 Criminal,Rogue,4,27,17,Elf,Rapier|Shortbow|Dagger
 Outlander,Fighter,4,53,17,Warforged,"Club|Unarmed Strike|Crossbow, hand"
 Noble,Warlock,4,16,11,Half-Elf,"Crossbow, Light|Dagger"
-Charlatan,Fighter,4,39,18,Human,"Rapier|Crossbow, Light||Dagger"
+Charlatan,Fighter,4,39,18,Human,"Rapier|Crossbow, Light|Dagger"
 Acolyte,Bard,4,31,12,Goliath,Dagger|Greatsword
 Entertainer,Bard,4,27,14,Goblin,Rapier|Dagger
 Knight,Paladin,4,44,16,Halfling,Greatsword|Javelin
@@ -1778,7 +1778,7 @@ Sage,Druid,4,31,12,Human,Scimitar|Dagger
 Soldier,Fighter,4,52,20,Dwarf,Warhammer|Handaxe|Spear
 Urchin,Ranger,4,36,13,Human,Shortsword|Longbow
 Acolyte,Cleric,4,35,16,Dwarf,"Mace|Crossbow, Light"
-Urchin,Paladin,4,40,18,Elf,Rapier|Dagger|
+Urchin,Paladin,4,40,18,Elf,Rapier|Dagger
 Soldier,Fighter,4,35,16,Human,Greatsword|Halberd|Handaxe
 Outlander,Paladin,4,42,16,Aasimar,Glaive|Maul|Dagger
 Criminal,Bard,4,32,14,Half-Elf,Rapier|Dagger
@@ -1832,9 +1832,9 @@ Acolyte,Paladin,4,56,16,Dwarf,"Maul|Crossbow, hand"
 Acolyte,Druid,4,44,15,Halfling,Quarterstaff|Dagger
 Acolyte,Wizard,4,26,13,Gnome,"Quarterstaff|Dagger|Crossbow, Light"
 Sage,Fighter,4,34,16,Dragonborn,Trident|Glaive|Handaxe
-Entertainer,Fighter,4,38,17,Halfling,"Crossbow, Light|Trident||"
+Entertainer,Fighter,4,38,17,Halfling,"Crossbow, Light|Trident"
 Criminal,Rogue,4,27,14,Halfling,Shortsword|Shortbow|Dagger|Longsword
-Urchin,Rogue,4,44,15,Halfling,Shortbow|Dagger|Rapier|
+Urchin,Rogue,4,44,15,Halfling,Shortbow|Dagger|Rapier
 Outlander,Ranger,4,48,16,Dragonborn,Shortsword
 Folk Hero,Wizard,4,35,13,Human,"Quarterstaff|Dagger|Crossbow, Light|Sling"
 Knight,Paladin,4,36,16,Halfling,Longsword|Dagger
@@ -1855,7 +1855,7 @@ Criminal,Rogue,4,44,18,Human,Shortsword|Shortsword|Dagger
 Folk Hero,Barbarian,4,45,12,Dragonborn,Greataxe|Handaxe|Javelin
 Acolyte,Cleric,4,48,16,Dwarf,Warhammer|Handaxe
 Hermit,Paladin,4,36,18,Half-Orc,"Battleaxe|Javelin|Crossbow, Light"
-Guild Artisan,Artificer,4,37,18,Human,"Handaxe|Crossbow, Light||"
+Guild Artisan,Artificer,4,37,18,Human,"Handaxe|Crossbow, Light"
 Outlander,Ranger,4,40,16,Dragonborn,Shortsword
 Sailor,Monk,4,32,17,Elf,Shortbow|Dart|Unarmed Strike
 Criminal,Rogue,4,28,15,Halfling,Shortsword|Shortsword|Dagger
@@ -1886,8 +1886,8 @@ Outlander,Barbarian,4,16,14,Half-Orc,Greataxe|Handaxe|Javelin|Maul
 Outlander,Barbarian,4,56,15,Half-Orc,Greataxe|Handaxe|Javelin
 Hermit,Druid,4,36,14,Elf,Spear|Whip
 Charlatan,Rogue,4,31,16,Half-Elf,Shortsword|Shortsword|Dagger
-Criminal,Rogue,4,25,15,Elf,Rapier||Dagger
-Acolyte,Cleric,4,43,17,Dwarf,"Mace|Crossbow, Light||"
+Criminal,Rogue,4,25,15,Elf,Rapier|Dagger
+Acolyte,Cleric,4,43,17,Dwarf,"Mace|Crossbow, Light"
 Outlander,Rogue,4,32,14,Tabaxi,Shortsword|Shortbow|Dagger
 Outlander,Monk,4,32,16,Tabaxi,Quarterstaff|Dart|Unarmed Strike
 Folk Hero,Cleric,4,42,16,Firbolg,"Mace|Crossbow, Light"
@@ -1914,7 +1914,7 @@ Acolyte,Barbarian,4,53,13,Half-Orc,Greataxe|Handaxe|Javelin
 Criminal,Rogue,4,31,17,Goblin,Rapier|Shortbow|Dagger
 Knight,Fighter,4,40,19,Half-Orc,"Battleaxe|Crossbow, Light|Lance"
 Folk Hero,Ranger,4,32,16,Elf,Spear|Quarterstaff|Longbow
-Acolyte,Monk,4,45,20,Elf,Unarmed Strike|Quarterstaff||Longbow
+Acolyte,Monk,4,45,20,Elf,Unarmed Strike|Quarterstaff|Longbow
 Urchin,Fighter,3,29,15,Half-Elf,"Crossbow, hand"
 Entertainer,Fighter,3,31,16,Human,"Crossbow, Light|Club"
 Outlander,Druid,3,30,15,Elf,Scimitar
@@ -1949,7 +1949,7 @@ Entertainer,Sorcerer,3,17,10,Elf,Dagger
 Sailor,Rogue,3,26,12,Human,Shortsword|Shortsword|Dagger
 Sailor,Rogue,3,20,12,Dragonborn,None
 Sailor,Rogue,3,15,13,Human,Scimitar|Blowgun
-Sailor,Monk,3,32,12,Dwarf,Dart|Unarmed Strike|
+Sailor,Monk,3,32,12,Dwarf,Dart|Unarmed Strike
 Sailor,Cleric,3,25,11,Human,Mace
 Sailor,Fighter,3,28,12,Human,Longsword|Longsword
 Criminal,Rogue,3,16,11,Halfling,None
@@ -2093,7 +2093,7 @@ Charlatan,Rogue,3,15,17,Turtle,Rapier|Shortbow|Dagger
 Criminal,Monk,3,24,16,Human,Shortsword|Dart|Unarmed Strike
 Sage,Wizard,3,21,13,Gnome,Dagger
 Criminal,Rogue,3,29,15,Dwarf,"Shortsword|Dagger|Crossbow, Light"
-Soldier,Paladin,3,62,20,Dragonborn,Warhammer|Javelin|Warhammer||Javelin
+Soldier,Paladin,3,62,20,Dragonborn,Warhammer|Javelin|Warhammer|Javelin
 Guild Artisan,Paladin,3,30,18,Aasimar,Battleaxe|Javelin
 Charlatan,Warlock,3,24,12,Tiefling,Quarterstaff|Dagger|Dagger
 Entertainer,Bard,3,24,12,Human,Rapier|Dagger
@@ -2134,7 +2134,7 @@ Criminal,Barbarian,3,35,16,Goblin,Longsword|Handaxe|Javelin
 Folk Hero,Rogue,3,18,14,Tabaxi,Rapier|Shortsword|Dagger
 Acolyte,Wizard,3,23,11,Human,Quarterstaff
 Hermit,Druid,3,27,15,Elf,Quarterstaff
-Noble,Warlock,3,24,18,Human,Rapier|Greatsword|
+Noble,Warlock,3,24,18,Human,Rapier|Greatsword
 Hermit,Monk,3,18,17,Human,Quarterstaff|Dart|Unarmed Strike
 Outlander,Ranger,3,31,16,Human,Shortsword|Longbow
 Hermit,Sorcerer,3,18,12,Half-Orc,Dagger
@@ -2161,7 +2161,7 @@ Acolyte,Druid,3,18,16,Elf,Scimitar
 Entertainer,Fighter,3,21,19,Dragonborn,"Longsword|Crossbow, Light"
 Entertainer,Bard,3,18,13,Halfling,Rapier|Dagger
 Entertainer,Bard,3,24,12,Human,Rapier|Dagger
-Entertainer,Fighter,3,28,16,Human,Shortsword|Shortsword|Handaxe||
+Entertainer,Fighter,3,28,16,Human,Shortsword|Shortsword|Handaxe
 Criminal,Rogue,3,26,14,Gnome,Rapier|Shortbow|Dagger
 Noble,Monk,3,24,16,Human,Quarterstaff|Dart|Unarmed Strike
 Soldier,Paladin,3,48,16,Human,Glaive|Longsword|Spear
@@ -2185,7 +2185,7 @@ Hermit,Druid,3,24,13,Human,Quarterstaff|Quarterstaff
 Soldier,Fighter,3,28,17,Human,"Halberd|Longsword|Crossbow, Light"
 Criminal,Rogue,3,24,14,Human,Shortbow|Dagger
 Soldier,Fighter,3,28,14,Human,"Longbow|Shortsword|Crossbow, Light"
-Folk Hero,Cleric,3,18,16,Human,"Mace|Crossbow, Light|"
+Folk Hero,Cleric,3,18,16,Human,"Mace|Crossbow, Light"
 Folk Hero,Fighter,3,38,18,Human,Warhammer|Handaxe
 Soldier,Fighter,3,32,17,Human,Halberd|Handaxe
 Acolyte,Monk,3,27,15,Human,Spear|Dart|Unarmed Strike
@@ -2372,7 +2372,7 @@ Entertainer,Bard,3,16,14,Elf,Rapier|Dagger|Shortbow
 Criminal,Warlock,3,25,15,Elf,"Crossbow, Light|Dagger"
 Sailor,Barbarian,3,35,17,Halfling,Club|Dagger|Battleaxe
 Hermit,Fighter,3,28,14,Elf,Longbow|Battleaxe|Handaxe
-Urchin,Rogue,3,28,15,Tabaxi,"Shortsword|Shortbow|Dagger||Dagger|Crossbow, Light"
+Urchin,Rogue,3,28,15,Tabaxi,"Shortsword|Shortbow|Dagger|Dagger|Crossbow, Light"
 Charlatan,Rogue,3,21,13,Goliath,Rapier|Shortbow|Dagger
 Acolyte,Druid,3,27,16,Firbolg,Scimitar
 Hermit,Wizard,3,18,11,Half-Elf,Quarterstaff
@@ -2449,7 +2449,7 @@ Hermit,Druid,3,27,15,Human,Scimitar
 Noble,Fighter,3,28,19,Human,"Longsword|Crossbow, Light"
 Knight,Fighter,3,28,17,Goliath,"Greatsword|Crossbow, Heavy|Handaxe"
 Acolyte,Cleric,3,30,19,Turtle,Mace|Light hammer
-Entertainer,Monk,3,30,16,Human,Quarterstaff|Dart|Unarmed Strike|
+Entertainer,Monk,3,30,16,Human,Quarterstaff|Dart|Unarmed Strike
 Soldier,Paladin,3,28,18,Dragonborn,Longsword|Javelin
 Soldier,Paladin,3,28,18,Dragonborn,Longsword|Javelin
 Criminal,Sorcerer,3,22,13,Tiefling,"Crossbow, Light|Dagger"
@@ -2522,17 +2522,17 @@ Outlander,Paladin,2,22,18,Firbolg,Flail
 Entertainer,Bard,2,15,15,Halfling,Rapier|Dagger
 Folk Hero,Artificer,2,19,16,Human,"Greatclub|Handaxe|Crossbow, Light"
 Acolyte,Paladin,2,20,18,Human,Warhammer|Javelin
-Outlander,Ranger,2,20,13,Half-Orc,Handaxe|Light hammer|Longbow|
+Outlander,Ranger,2,20,13,Half-Orc,Handaxe|Light hammer|Longbow
 Folk Hero,Barbarian,2,23,12,Half-Orc,Greataxe|Handaxe|Javelin
 Folk Hero,Druid,2,16,13,Firbolg,None
-Urchin,Bard,2,13,15,Human,"Crossbow, Light|Dagger|Rapier||Dagger"
+Urchin,Bard,2,13,15,Human,"Crossbow, Light|Dagger|Rapier|Dagger"
 Sage,Wizard,2,12,13,Elf,Quarterstaff
 Outlander,Ranger,2,20,16,Elf,Shortsword|Longbow
 Urchin,Rogue,2,15,14,Tabaxi,Rapier|Shortbow|Dagger
 Acolyte,Cleric,2,19,18,Dwarf,"Warhammer|Crossbow, Light"
 Hermit,Druid,2,16,15,Goblin,Scimitar
 Acolyte,Cleric,2,15,18,Human,"Mace|Crossbow, Light"
-Outlander,Fighter,2,24,16,Half-Orc,Maul||Warhammer
+Outlander,Fighter,2,24,16,Half-Orc,Maul|Warhammer
 Soldier,Fighter,2,24,16,Human,Longsword|Glaive|Handaxe
 Guild Artisan,Ranger,2,22,19,Tabaxi,Shortsword|Longbow
 Charlatan,Rogue,2,17,13,Half-Elf,Shortbow|Dagger|Rapier
@@ -2620,7 +2620,7 @@ Outlander,Druid,2,16,16,Tabaxi,Scimitar
 Hermit,Monk,2,14,15,Tabaxi,Dart|Unarmed Strike
 Acolyte,Sorcerer,2,16,11,Aasimar,"Crossbow, Light|Dagger"
 Soldier,Paladin,2,20,18,Aasimar,Longsword|Javelin
-Urchin,Monk,2,14,17,Tabaxi,Shortsword|Dart|Unarmed Strike|
+Urchin,Monk,2,14,17,Tabaxi,Shortsword|Dart|Unarmed Strike
 Criminal,Fighter,2,22,19,Half-Orc,Battleaxe|Handaxe
 Urchin,Fighter,2,24,17,Halfling,"Shortbow|Rapier|Flail|Crossbow, Light"
 Folk Hero,Druid,2,17,14,Firbolg,None
@@ -2667,7 +2667,7 @@ Soldier,Fighter,2,22,18,Human,"Warhammer|Crossbow, Light"
 Sailor,Barbarian,2,35,15,Genasi,Greataxe|Handaxe|Javelin
 Sage,Warlock,2,15,12,Tiefling,Sickle|Dagger|Dagger
 Soldier,Fighter,2,17,17,Dragonborn,Halberd|Shortsword|Handaxe
-Criminal,Rogue,2,17,14,Human,"Shortsword|Dagger|Crossbow, hand|Crossbow, Light|"
+Criminal,Rogue,2,17,14,Human,"Shortsword|Dagger|Crossbow, hand|Crossbow, Light"
 Noble,Sorcerer,2,14,14,Elf,Quarterstaff|Dagger
 Criminal,Bard,2,15,12,Half-Elf,Rapier|Dagger
 Criminal,Monk,2,17,16,Human,Quarterstaff|Dart|Unarmed Strike
@@ -2689,7 +2689,7 @@ Folk Hero,Fighter,2,28,19,Dwarf,"Warhammer|Crossbow, Light"
 Folk Hero,Wizard,2,14,12,Gnome,Quarterstaff
 Sage,Wizard,2,14,12,Gnome,Quarterstaff
 Acolyte,Paladin,2,24,18,Dragonborn,"Warhammer|Greatsword|Longsword|Crossbow, hand"
-Urchin,Fighter,2,20,15,Human,"Shortsword|Crossbow, Heavy||"
+Urchin,Fighter,2,20,15,Human,"Shortsword|Crossbow, Heavy"
 Urchin,Warlock,2,21,14,Human,"Crossbow, Light|Dagger"
 Folk Hero,Paladin,2,22,18,Human,Rapier|Javelin
 Folk Hero,Rogue,2,12,13,Elf,Shortsword|Shortbow|Dagger
@@ -2699,7 +2699,7 @@ Acolyte,Cleric,2,22,18,Elf,"Mace|Crossbow, Light|Longsword"
 Acolyte,Ranger,2,24,12,Elf,Shortsword|Longbow
 Soldier,Paladin,2,19,16,Human,Glaive|Pike|Javelin
 Sailor,Cleric,2,18,18,Dwarf,Warhammer|Javelin
-Acolyte,Cleric,2,17,19,Turtle,"Mace|Crossbow, Light|"
+Acolyte,Cleric,2,17,19,Turtle,"Mace|Crossbow, Light"
 Criminal,Warlock,2,17,12,Gnome,"Crossbow, Light|Dagger"
 Sage,Wizard,2,14,12,Elf,Quarterstaff
 Soldier,Fighter,2,17,16,Dragonborn,Greatsword|Longbow|Handaxe|Dagger|Unarmed Strike
@@ -2777,7 +2777,7 @@ Noble,Cleric,2,15,16,Elf,Mace|Dagger
 Folk Hero,Fighter,2,20,16,Gnome,Lance|Handaxe
 Sailor,Ranger,2,18,14,Elf,Longbow|Rapier
 Hermit,Paladin,2,20,18,Tiefling,Longsword
-Outlander,Ranger,2,20,19,Turtle,Quarterstaff|Quarterstaff|Longbow|
+Outlander,Ranger,2,20,19,Turtle,Quarterstaff|Quarterstaff|Longbow
 Noble,Paladin,2,24,18,Human,Longsword|Javelin
 Charlatan,Bard,2,19,12,Halfling,Longsword|Dagger
 Entertainer,Druid,2,24,14,Half-Elf,Sling|Quarterstaff
@@ -2789,7 +2789,7 @@ Soldier,Fighter,2,24,16,Human,Longsword|Shortsword|Handaxe
 Acolyte,Paladin,2,24,18,Half-Elf,Rapier|Javelin
 Hermit,Rogue,2,18,14,Elf,Rapier|Shortbow|Dagger
 Sage,Sorcerer,2,14,12,Half-Elf,Spear|Dagger|Sickle
-Urchin,Warlock,2,13,16,Half-Elf,Quarterstaff|Light hammer|Dagger|
+Urchin,Warlock,2,13,16,Half-Elf,Quarterstaff|Light hammer|Dagger
 Hermit,Fighter,2,40,18,Dragonborn,Longsword|Javelin
 Criminal,Warlock,1,10,15,Goblin,Club|Handaxe|Dagger
 Soldier,Fighter,1,12,16,Dragonborn,"Battleaxe|Longbow|Crossbow, Light"
@@ -2866,7 +2866,7 @@ Hermit,Druid,1,10,14,Human,Dagger|Sling
 Acolyte,Cleric,1,8,17,Human,"Mace|Crossbow, Light"
 Outlander,Rogue,1,6,15,Warforged,Rapier|Shortbow|Dagger
 Acolyte,Cleric,1,10,12,Human,Mace
-Guild Artisan,Warlock,1,9,14,Human,Dagger|Longsword||
+Guild Artisan,Warlock,1,9,14,Human,Dagger|Longsword
 Soldier,Fighter,1,12,18,Warforged,"Scimitar|Crossbow, Light"
 Guild Artisan,Bard,1,10,13,Human,Rapier|Dagger
 Urchin,Ranger,1,12,15,Elf,Shortsword|Longbow
@@ -3108,7 +3108,7 @@ Acolyte,Cleric,1,10,18,Human,"Mace|Crossbow, Light"
 Acolyte,Warlock,1,11,13,Tiefling,"Crossbow, Light|Dagger|Sling"
 Soldier,Fighter,1,13,21,Warforged,"Longsword|Crossbow, Light"
 Outlander,Druid,1,10,12,Gnome,Quarterstaff|Dagger
-Criminal,Rogue,1,10,13,Dragonborn,Shortsword|Shortsword|Dagger|
+Criminal,Rogue,1,10,13,Dragonborn,Shortsword|Shortsword|Dagger
 Outlander,Wizard,1,6,13,Gnome,Dagger
 Acolyte,Paladin,1,12,16,Human,Greatsword|Javelin
 Entertainer,Bard,1,9,13,Human,Rapier|Dagger
@@ -3125,7 +3125,7 @@ Acolyte,Paladin,1,13,16,Half-Elf,Greatsword|Longsword|Javelin
 Urchin,Ranger,1,12,14,Tabaxi,Shortsword|Longbow
 Sailor,Rogue,1,10,14,Halfling,Rapier|Shortbow|Dagger
 Acolyte,Sorcerer,1,9,15,Elf,Handaxe|Dagger
-Urchin,Warlock,1,10,12,Tiefling,"Crossbow, Light|Dagger|Quarterstaff|"
+Urchin,Warlock,1,10,12,Tiefling,"Crossbow, Light|Dagger|Quarterstaff"
 Charlatan,Bard,1,10,13,Half-Orc,Rapier|Dagger
 Entertainer,Bard,1,11,13,Dwarf,Rapier|Dagger
 Sailor,Monk,1,8,14,Dwarf,Spear|Dart|Unarmed Strike
@@ -3304,7 +3304,7 @@ Soldier,Fighter,1,14,18,Human,Spear|Longsword
 Acolyte,Warlock,1,11,14,Half-Elf,"Crossbow, Light|Dagger"
 Sage,Warlock,1,10,13,Half-Elf,"Crossbow, Light|Dagger"
 Noble,Bard,1,8,14,Tabaxi,Rapier|Dagger
-Noble,Bard,1,0,13,Tabaxi,Rapier|Dagger|
+Noble,Bard,1,0,13,Tabaxi,Rapier|Dagger
 Charlatan,Rogue,1,10,15,Goblin,Rapier|Shortsword|Dagger
 Sailor,Cleric,1,10,17,Human,"Mace|Crossbow, Light"
 Knight,Fighter,1,13,19,Human,"Longsword|Dagger|Crossbow, Light"
@@ -3535,13 +3535,13 @@ Acolyte,Sorcerer,1,9,12,Half-Elf,"Crossbow, Light|Dagger"
 Hermit,Druid,1,10,15,Half-Orc,Scimitar
 Soldier,Paladin,1,11,18,Dragonborn,Battleaxe|Javelin
 Acolyte,Monk,1,10,16,Elf,Quarterstaff|Dart|Unarmed Strike
-Guild Artisan ,Bard,1,8,12,Custom,Rapier|Dagger
+Guild Artisan,Bard,1,8,12,Custom,Rapier|Dagger
 Hermit,Monk,1,10,15,Halfling,Dart|Unarmed Strike
 Soldier,Paladin,1,11,20,Tiefling,Battleaxe|Javelin
 Entertainer,Warlock,1,9,14,Elf,"Crossbow, Light|Dagger|Spear"
 Entertainer,Bard,1,12,14,Human,Rapier|Dagger
 Acolyte,Sorcerer,1,7,13,Elf,Quarterstaff|Dagger
-Acolyte,Monk,1,8,18,Tabaxi,Spear|Dart|Unarmed Strike|
+Acolyte,Monk,1,8,18,Tabaxi,Spear|Dart|Unarmed Strike
 Outlander,Fighter,1,10,16,Human,Greataxe|Battleaxe|Handaxe
 Noble,Cleric,1,9,18,Elf,"Mace|Crossbow, Light"
 Folk Hero,Wizard,1,8,12,Tiefling,Quarterstaff
@@ -3831,7 +3831,7 @@ Folk Hero,Ranger,1,12,16,Elf,Shortsword|Longbow
 Hermit,Rogue,1,8,13,Dwarf,Rapier|Shortbow|Dagger
 Sailor,Rogue,1,8,14,Gnome,Shortsword|Shortbow|Dagger
 Sailor,Monk,1,9,16,Human,Shortsword|Dart|Unarmed Strike
-Sailor,Fighter,1,13,15,Firbolg,"Scimitar|Crossbow, Light|"
+Sailor,Fighter,1,13,15,Firbolg,"Scimitar|Crossbow, Light"
 Acolyte,Sorcerer,1,6,11,Aasimar,Dagger
 Criminal,Bard,1,10,13,Aasimar,Rapier|Dagger
 Folk Hero,Warlock,1,8,11,Human,"Crossbow, Light|Dagger"
@@ -3881,7 +3881,7 @@ Criminal,Rogue,1,8,15,Halfling,Shortsword|Shortbow|Dagger
 Outlander,Barbarian,1,15,13,Half-Orc,Longsword|Handaxe|Javelin
 Acolyte,Paladin,1,11,18,Half-Elf,Longsword|Light hammer
 Charlatan,Sorcerer,1,11,14,Dragonborn,Quarterstaff|Dagger
-Sage,Cleric,1,10,18,Elf,"Mace|Crossbow, Light|"
+Sage,Cleric,1,10,18,Elf,"Mace|Crossbow, Light"
 Noble,Bard,1,10,13,Aasimar,Rapier|Dagger
 Acolyte,Barbarian,1,11,10,Turtle,Greataxe|Handaxe|Javelin
 Outlander,Barbarian,1,14,13,Half-Orc,Greataxe|Handaxe|Javelin
@@ -3899,7 +3899,7 @@ Outlander,Druid,1,10,16,Halfling,Scimitar
 Sage,Cleric,1,9,19,Turtle,Warhammer
 Criminal,Rogue,1,9,15,Human,Rapier|Shortbow|Dagger
 Soldier,Fighter,1,13,16,Human,"Crossbow, Light"
-Sailor,Cleric,1,11,18,Human,"Mace|Crossbow, Light|"
+Sailor,Cleric,1,11,18,Human,"Mace|Crossbow, Light"
 Criminal,Rogue,1,8,14,Tiefling,Shortsword|Shortbow|Dagger
 Sailor,Warlock,1,9,13,Human,Dagger
 Folk Hero,Monk,1,9,13,Halfling,Quarterstaff|Dart|Unarmed Strike
@@ -3963,10 +3963,10 @@ Criminal,Monk|Ranger,16,148,20,Tabaxi,Spear|Dart|Unarmed Strike
 Knight,Paladin|Bard|Warlock,16,107,15,Elf,Maul|Javelin
 Soldier,Fighter|Rogue,16,142,16,Tabaxi,"Crossbow, Light|Rapier|Dagger"
 Noble,Paladin|Fighter,16,208,19,Human,Longsword
-Soldier,Fighter|Barbarian,15,229,16,Human,"Greatsword|Crossbow, Light|"
+Soldier,Fighter|Barbarian,15,229,16,Human,"Greatsword|Crossbow, Light"
 Hermit,Barbarian|Druid,15,150,26,Turtle,Quarterstaff
 Folk Hero,Barbarian|Paladin,15,158,18,Custom,Greataxe|Javelin|Flail|Trident
-Hermit,Monk|Barbarian,15,135,20,Half-Orc,Spear|Dart||Battleaxe|Greatsword||Battleaxe
+Hermit,Monk|Barbarian,15,135,20,Half-Orc,Spear|Dart|Battleaxe|Greatsword|Battleaxe
 Entertainer,Wizard|Warlock,15,82,10,Elf,Quarterstaff
 Urchin,Rogue|Warlock,15,153,15,Human,Rapier|Shortbow|Dagger
 Soldier,Fighter|Paladin,15,155,21,Half-Orc,Longsword|Warhammer|Warhammer
@@ -3981,15 +3981,15 @@ Outlander,Monk|Druid,15,107,17,Elf,Longbow|Blowgun
 Criminal,Rogue|Wizard,15,103,16,Half-Orc,"Rapier|Shortbow|Dagger|Crossbow, hand"
 Outlander,Paladin|Barbarian,15,204,20,Half-Orc,Warhammer|Javelin
 Outlander,Fighter|Warlock|Ranger,14,148,19,Half-Orc,Pike
-Folk Hero,Barbarian|Druid,14,155,17,Human,Greatsword|Handaxe|Javelin|
+Folk Hero,Barbarian|Druid,14,155,17,Human,Greatsword|Handaxe|Javelin
 Hermit,Druid|Ranger,14,117,20,Turtle,Spear|Light hammer
 Urchin,Ranger|Cleric,14,142,17,Human,Shortsword|Longbow
 Acolyte,Paladin|Cleric,14,97,19,Tiefling,Battleaxe|Javelin
-Hermit,Druid|Monk,14,131,19,Elf,Quarterstaff|Dagger|Shortbow|||
+Hermit,Druid|Monk,14,131,19,Elf,Quarterstaff|Dagger|Shortbow
 Noble,Cleric|Wizard,14,102,18,Human,"Mace|Crossbow, Light"
 Criminal,Rogue|Fighter,13,110,21,Tabaxi,Rapier|Rapier
 Soldier,Fighter|Ranger,13,122,19,Elf,Longbow
-Noble,Fighter|Rogue|Ranger,13,116,18,Turtle,"Longbow|Handaxe|||Shortsword|Crossbow, hand"
+Noble,Fighter|Rogue|Ranger,13,116,18,Turtle,"Longbow|Handaxe|Shortsword|Crossbow, hand"
 Acolyte,Wizard|Fighter,13,82,15,Elf,Quarterstaff
 Knight,Paladin|Wizard,13,72,18,Dragonborn,Greatsword|Javelin
 Acolyte,Monk|Rogue,12,87,18,Elf,Shortsword|Dart|Unarmed Strike
@@ -4001,19 +4001,19 @@ Hermit,Wizard|Fighter,12,148,13,Tiefling,Dagger
 Urchin,Rogue|Cleric,12,132,15,Human,Rapier|Shortbow|Dagger
 Folk Hero,Paladin|Fighter,12,100,18,Half-Orc,Greataxe
 Acolyte,Paladin|Sorcerer,12,96,19,Human,Net|Greatclub|Lance
-Hermit,Barbarian|Bard|Monk,12,95,17,Human,Longsword|Handaxe|Javelin|Unarmed Strike|
+Hermit,Barbarian|Bard|Monk,12,95,17,Human,Longsword|Handaxe|Javelin|Unarmed Strike
 Criminal,Rogue|Ranger,12,29,16,Goblin,Rapier|Shortbow|Dagger|Scimitar
-Sailor,Fighter|Revised Ranger,12,113,18,Dragonborn,"Longbow|Rapier|Crossbow, Light"
+Sailor,Fighter|Ranger,12,113,18,Dragonborn,"Longbow|Rapier|Crossbow, Light"
 Criminal,Fighter|Warlock,12,80,17,Human,"Crossbow, hand|Crossbow, hand|Handaxe"
 Criminal,Rogue|Cleric,12,87,15,Halfling,Rapier|Shortbow|Dagger
 Acolyte,Cleric|Fighter,11,115,22,Warforged,Mace
 Entertainer,Paladin|Bard,11,115,19,Tiefling,Flail|Handaxe
 Entertainer,Paladin|Bard,11,83,23,Warforged,Javelin|Unarmed Strike|Scimitar|Dagger
-noble,Rogue|Ranger,11,30,12,Half-Elf,Dagger|Whip
+Noble,Rogue|Ranger,11,30,12,Half-Elf,Dagger|Whip
 Criminal,Rogue|Wizard,11,99,18,Tabaxi,Shortsword|Shortsword|Dagger|Rapier
 Acolyte,Cleric|Sorcerer,11,88,20,Human,"Crossbow, Light|Greatsword"
 Outlander,Cleric|Fighter,11,82,23,Elf,Longbow|Quarterstaff|Sling|Unarmed Strike
-Criminal,Rogue|Warlock,11,85,17,Elf,"Dagger|Dagger|Crossbow, hand|||Shortsword"
+Criminal,Rogue|Warlock,11,85,17,Elf,"Dagger|Dagger|Crossbow, hand|Shortsword"
 Sailor,Barbarian|Fighter,11,53,24,Dragonborn,Handaxe|Javelin
 Outlander,Fighter|Warlock|Sorcerer,11,87,16,Half-Elf,"Crossbow, Light"
 Urchin,Rogue|Monk,10,90,19,Elf,Shortsword|Dagger|Longbow
@@ -4022,7 +4022,7 @@ Guild Artisan,Druid|Barbarian,10,102,16,Gnome,Light hammer|Morningstar
 Sage,Fighter|Sorcerer|Wizard,10,113,22,Warforged,"Longsword|Crossbow, Light"
 Sage,Bard|Rogue|Warlock,10,63,18,Tabaxi,Dagger|Scimitar|Shortbow
 Criminal,Rogue|Sorcerer,10,86,16,Half-Orc,Shortsword|Shortbow|Dagger
-Outlander,Barbarian|Sorcerer,10,127,22,Halfling,Greataxe|Handaxe|Greataxe|Handaxe|Javelin|Battleaxe|
+Outlander,Barbarian|Sorcerer,10,127,22,Halfling,Greataxe|Handaxe|Greataxe|Handaxe|Javelin|Battleaxe
 Entertainer,Bard|Sorcerer,10,52,12,Aasimar,Dagger|Dagger
 Soldier,Fighter|Warlock,10,75,20,Aasimar,Handaxe
 Acolyte,Ranger|Druid,10,92,16,Elf,Longbow|Spear|Shortsword|Scimitar
@@ -4044,7 +4044,7 @@ Acolyte,Sorcerer|Monk,10,95,19,Human,Quarterstaff|Dagger
 Criminal,Fighter|Warlock,9,80,20,Half-Elf,Warhammer|Whip
 Knight,Fighter|Barbarian,9,92,17,Human,Longbow|Greatsword|Longsword
 Folk Hero,Warlock|Barbarian,9,79,13,Dwarf,Greataxe
-Knight,Fighter|Sorcerer,9,41,19,Aasimar,"Longsword|Crossbow, Light|||"
+Knight,Fighter|Sorcerer,9,41,19,Aasimar,"Longsword|Crossbow, Light"
 Entertainer,Barbarian|Bard,9,78,14,Custom,Scimitar|Handaxe|Javelin
 Outlander,Fighter|Ranger|Rogue,9,89,16,Tiefling,Longbow|Scimitar|Dagger|Handaxe|Longbow
 Soldier,Paladin|Barbarian,9,91,18,Tiefling,Javelin|Longsword|Flail|Whip
@@ -4056,12 +4056,12 @@ Soldier,Fighter|Paladin,9,116,19,Dwarf,"Warhammer|Crossbow, Light|Battleaxe|Jave
 Sailor,Sorcerer|Warlock,9,78,14,Human,Spear
 Outlander,Monk|Fighter,9,77,16,Genasi,Spear|Dart|Unarmed Strike|Spear|Longsword|Net
 Sailor,Wizard|Fighter,9,95,17,Human,Dagger|Longsword|Halberd
-Folk Hero,Rogue|Fighter,9,97,18,Halfling,Shortsword|Longbow|Dagger||
-Outlander,Rogue|Ranger,9,35,18,Halfling,Rapier|Shortbow|Sling||Dagger|Whip|Dagger
+Folk Hero,Rogue|Fighter,9,97,18,Halfling,Shortsword|Longbow|Dagger
+Outlander,Rogue|Ranger,9,35,18,Halfling,Rapier|Shortbow|Sling|Dagger|Whip|Dagger
 Soldier,Fighter|Barbarian,9,138,19,Human,"Crossbow, hand"
 Acolyte,Cleric|Warlock,9,90,19,Half-Elf,None
 Criminal,Fighter|Barbarian,9,99,15,Dwarf,Greataxe|Greataxe|Handaxe
-Criminal,Rogue|Cleric,9,64,16,Human,Dagger|Unarmed Strike|Longsword||||Greatsword|
+Criminal,Rogue|Cleric,9,64,16,Human,Dagger|Unarmed Strike|Longsword|Greatsword
 Criminal,Fighter|Rogue,9,72,15,Elf,"Crossbow, Light|Longbow|Dagger|Shortsword"
 Charlatan,Bard|Rogue,9,66,18,Tabaxi,Dagger
 Noble,Fighter|Cleric,9,59,21,Half-Elf,Longsword|Handaxe|Dagger
@@ -4076,7 +4076,7 @@ Noble,Rogue|Bard,8,57,14,Custom,Rapier|Shortbow|Dagger
 Entertainer,Bard|Warlock,8,80,14,Halfling,Rapier|Dagger
 Acolyte,Fighter|Barbarian,8,94,18,Custom,Longsword|Handaxe
 Noble,Cleric|Druid,8,64,16,Elf,"Mace|Crossbow, Light"
-Outlander,Fighter|Warlock,8,75,22,Aasimar,Handaxe|Handaxe|Longsword|Longsword|
+Outlander,Fighter|Warlock,8,75,22,Aasimar,Handaxe|Handaxe|Longsword|Longsword
 Outlander,Barbarian|Fighter,8,122,19,Goblin,None
 Urchin,Bard|Rogue,8,52,15,Tabaxi,Rapier|Dagger|Scimitar|Shortbow
 Entertainer,Barbarian|Bard,8,65,13,Goliath,Greataxe|Handaxe|Javelin|Unarmed Strike
@@ -4085,7 +4085,7 @@ Sailor,Barbarian|Rogue,8,17,15,Goliath,Javelin
 Soldier,Sorcerer|Fighter,8,68,16,Genasi,Light hammer|Warhammer
 Acolyte,Paladin|Warlock,8,58,18,Aasimar,Javelin
 Folk Hero,Sorcerer|Barbarian,8,146,21,Halfling,Battleaxe|Greataxe|Battleaxe|Greataxe|Javelin
-Folk Hero,Ranger|Fighter,8,68,18,Elf,Shortsword|Longbow|Shortsword|
+Folk Hero,Ranger|Fighter,8,68,18,Elf,Shortsword|Longbow|Shortsword
 Outlander,Monk|Rogue,8,59,19,Elf,Shortsword|Dart|Unarmed Strike|Longbow
 Acolyte,Cleric|Fighter,8,68,18,Half-Orc,"Warhammer|Crossbow, Light"
 Criminal,Fighter|Rogue,8,74,18,Tabaxi,Longbow|Whip|Longbow|Dagger
@@ -4116,7 +4116,7 @@ Charlatan,Druid|Rogue,8,72,16,Firbolg,None
 Outlander,Rogue|Fighter,8,40,18,Elf,Rapier|Shortbow|Dagger
 Outlander,Barbarian|Cleric,7,51,14,Human,Morningstar|Mace|Javelin
 Knight,Fighter|Artificer,7,56,19,Human,"Longsword|Crossbow, Light"
-Knight,Fighter|Sorcerer,7,20,19,Aasimar,"Longsword|Crossbow, Light|"
+Knight,Fighter|Sorcerer,7,20,19,Aasimar,"Longsword|Crossbow, Light"
 Entertainer,Druid|Bard,7,45,16,Elf,Quarterstaff|Dagger
 Charlatan,Wizard|Rogue,7,40,11,Tiefling,Dagger
 Urchin,Paladin|Sorcerer,7,84,20,Elf,"Scimitar|Crossbow, Heavy"
@@ -4134,13 +4134,13 @@ Noble,Sorcerer|Warlock,7,52,13,Human,Dagger
 Acolyte,Paladin|Warlock,7,58,18,Aasimar,Longsword|Longsword
 Criminal,Rogue|Ranger,7,71,15,Halfling,Rapier|Shortbow
 Criminal,Fighter|Rogue,7,76,15,Human,"Crossbow, Heavy|Crossbow, hand|Rapier"
-Charlatan,Monk|Fighter,7,50,17,Human,Shortbow|Unarmed Strike||
+Charlatan,Monk|Fighter,7,50,17,Human,Shortbow|Unarmed Strike
 Soldier,Fighter|Rogue,7,57,15,Human,"Longbow|Crossbow, Light"
 Soldier,Fighter|Warlock,7,55,17,Human,Glaive
 Soldier,Fighter|Warlock,7,55,17,Human,Glaive
-Gladiator,Fighter|Paladin,7,66,23,Custom,Maul|Handaxe|Warhammer||Maul|Mace|Spear
+Gladiator,Fighter|Paladin,7,66,23,Custom,Maul|Handaxe|Warhammer|Maul|Mace|Spear
 Sage,Wizard|Cleric,7,52,12,Elf,Quarterstaff|Dagger
-Folk Hero,Wizard|Warlock,7,25,16,Human,"Dagger|Crossbow, Light|||"
+Folk Hero,Wizard|Warlock,7,25,16,Human,"Dagger|Crossbow, Light"
 Soldier,Fighter|Rogue,7,70,17,Human,Shortbow|Glaive|Spear|Shortsword
 Folk Hero,Druid|Cleric,6,45,13,Firbolg,None
 Criminal,Rogue|Ranger,6,54,14,Elf,Rapier|Shortsword
@@ -4149,7 +4149,7 @@ Folk Hero,Rogue|Fighter,6,44,19,Custom,Rapier|Shortbow|Dagger|Whip
 Sage,Monk|Cleric,6,39,15,Elf,Shortsword|Dart|Unarmed Strike|Sickle
 Outlander,Druid|Barbarian,6,49,12,Firbolg,Quarterstaff|Handaxe
 Sailor,Rogue|Warlock,6,36,13,Human,Shortsword|Shortbow|Dagger
-Folk Hero,Bard|Rogue,6,44,15,Halfling,"Crossbow, Light||Unarmed Strike||Greatclub"
+Folk Hero,Bard|Rogue,6,44,15,Halfling,"Crossbow, Light|Unarmed Strike|Greatclub"
 Outlander,Ranger|Fighter,6,52,19,Halfling,Shortsword|Shortbow
 Sage,Fighter|Wizard|Rogue,6,54,18,Half-Elf,Dagger|Whip|Longbow
 Charlatan,Rogue|Fighter,6,40,17,Human,Rapier|Rapier|Shortbow|Dagger
@@ -4158,7 +4158,7 @@ Noble,Ranger|Sorcerer,6,68,14,Genasi,Shortsword|Longbow|Shortsword
 Entertainer,Sorcerer|Warlock,6,56,18,Halfling,Quarterstaff|Dagger|Longsword|Greataxe
 Acolyte,Fighter|Paladin,6,58,11,Human,Longbow|Greatsword|Battleaxe|Handaxe
 Charlatan,Rogue|Fighter,6,52,14,Human,Rapier|Shortsword|Dagger
-Soldier,Cleric|Monk,6,59,16,Dwarf,"Warhammer|Warhammer|Crossbow, Light|Unarmed Strike||Dagger"
+Soldier,Cleric|Monk,6,59,16,Dwarf,"Warhammer|Warhammer|Crossbow, Light|Unarmed Strike|Dagger"
 Acolyte,Fighter|Druid,6,59,18,Warforged,"Crossbow, Light"
 Acolyte,Rogue|Paladin,6,43,13,Human,Rapier|Shortbow|Dagger
 Criminal,Rogue|Ranger,6,56,17,Genasi,Rapier|Dagger|Whip|Shortbow|Scimitar|Shortsword
@@ -4174,7 +4174,7 @@ Folk Hero,Ranger|Warlock,6,48,14,Halfling,Shortsword|Longbow
 Acolyte,Warlock|Bard,6,42,13,Dragonborn,Dagger|Dagger
 Entertainer,Sorcerer|Bard,6,40,13,Half-Elf,"Crossbow, Light|Dagger"
 Acolyte,Paladin|Druid,6,74,17,Elf,Shortsword|Whip|Sickle
-Acolyte,Cleric|Rogue,6,62,16,Aasimar,"Mace|Crossbow, Light|Light hammer|Shortsword|"
+Acolyte,Cleric|Rogue,6,62,16,Aasimar,"Mace|Crossbow, Light|Light hammer|Shortsword"
 Urchin,Fighter|Wizard,6,69,17,Tiefling,Longbow|Shortsword|Handaxe
 Sage,Wizard|Fighter,6,54,17,Elf,Quarterstaff|Dagger|Rapier
 Criminal,Rogue|Sorcerer,6,44,16,Human,Rapier|Shortbow|Dagger|Dagger
@@ -4193,7 +4193,7 @@ Charlatan,Fighter|Bard|Warlock|Rogue|Sorcerer,5,44,13,Tiefling,"Rapier|Shortswor
 Sage,Cleric|Artificer,5,38,14,Gnome,Mace|Mace
 Charlatan,Rogue|Bard,5,28,15,Half-Elf,"Rapier|Crossbow, hand|Crossbow, Light|Dagger"
 Urchin,Fighter|Rogue,5,40,15,Halfling,"Crossbow, Light|Dagger|Dart"
-Sailor,Cleric|Sorcerer,5,43,20,Half-Orc,Rapier|Greataxe||Javelin|Whip
+Sailor,Cleric|Sorcerer,5,43,20,Half-Orc,Rapier|Greataxe|Javelin|Whip
 Noble,Warlock|Fighter,5,41,16,Half-Elf,Dagger|Longbow|Shortsword|Shortsword
 Entertainer,Bard|Druid,5,33,13,Elf,Rapier|Dagger
 Charlatan,Rogue|Wizard,5,26,16,Tiefling,Rapier|Shortbow|Dagger
@@ -4205,7 +4205,7 @@ Criminal,Ranger|Sorcerer,5,37,15,Human,"Crossbow, Heavy|Crossbow, hand"
 Acolyte,Cleric|Wizard,5,28,18,Firbolg,"Mace|Crossbow, Light|Javelin|Greataxe"
 Sage,Bard|Monk,5,50,18,Aasimar,Rapier|Dagger
 Noble,Rogue|Sorcerer,5,47,16,Human,"Rapier|Shortbow|Dagger|Crossbow, hand"
-Criminal,Bard|Rogue,5,41,15,Custom,Rapier|Dagger|
+Criminal,Bard|Rogue,5,41,15,Custom,Rapier|Dagger
 Outlander,Paladin|Warlock,5,51,18,Half-Orc,Flail|Javelin
 Sailor,Fighter|Rogue,5,37,16,Half-Orc,"Scimitar|Scimitar|Crossbow, Light"
 Charlatan,Rogue|Warlock,5,33,14,Halfling,Rapier|Shortsword|Dagger
@@ -4245,7 +4245,7 @@ Urchin,Fighter|Warlock,4,33,16,Human,Longbow|Longbow|Longbow
 Charlatan,Warlock|Rogue,4,37,14,Half-Elf,"Crossbow, Light|Dagger"
 Outlander,Ranger|Barbarian,4,33,13,Halfling,Club|Club|Longbow
 Entertainer,Bard|Paladin,4,28,13,Human,Rapier|Dagger
-Urchin,Monk|Rogue,4,26,17,Tabaxi,"Shortsword|Dart|Unarmed Strike||Crossbow, Light"
+Urchin,Monk|Rogue,4,26,17,Tabaxi,"Shortsword|Dart|Unarmed Strike|Crossbow, Light"
 Sage,Fighter|Wizard,4,38,18,Half-Elf,Dagger|Whip
 Criminal,Rogue|Fighter,4,36,16,Halfling,Shortsword|Shortbow|Dagger
 Outlander,Rogue|Sorcerer,4,22,14,Human,Shortsword|Shortbow|Dagger
@@ -4261,7 +4261,7 @@ Folk Hero,Wizard|Bard,4,23,11,Human,Quarterstaff
 Folk Hero,Sorcerer|Wizard,4,18,12,Half-Elf,"Crossbow, Light|Dagger"
 Noble,Sorcerer|Warlock,4,28,15,Aasimar,Sling|Dagger
 Soldier,Fighter|Rogue,4,31,16,Human,Glaive|Handaxe|Longbow|Shortsword
-Criminal,Bard|Warlock,4,32,14,Tabaxi,Rapier|Dagger|
+Criminal,Bard|Warlock,4,32,14,Tabaxi,Rapier|Dagger
 Charlatan,Rogue|Warlock,4,31,17,Human,Rapier|Shortbow|Dagger
 Soldier,Fighter|Warlock,4,33,16,Human,Glaive
 Entertainer,Monk|Rogue,4,31,15,Human,Dagger|Dart|Unarmed Strike|Net
@@ -4324,7 +4324,7 @@ Folk Hero,Monk|Bard,2,18,15,Tabaxi,Shortsword|Dart|Unarmed Strike
 Outlander,Rogue|Fighter,2,20,18,Human,Shortsword|Shortbow|Dagger|Spear
 Outlander,Rogue|Fighter,2,22,18,Human,Shortsword|Shortbow|Dagger
 Urchin,Paladin|Rogue,2,18,16,Dwarf,Whip|Handaxe|Shortsword
-Charlatan,Rogue|Warlock,2,13,14,Half-Elf,"Rapier|Crossbow, hand|Dagger|"
+Charlatan,Rogue|Warlock,2,13,14,Half-Elf,"Rapier|Crossbow, hand|Dagger"
 Guild Artisan,Rogue|Warlock,2,17,12,Half-Elf,Rapier|Shortbow|Dagger
 Noble,Sorcerer|Warlock,2,15,15,Aasimar,Sling|Dagger
 Urchin,Fighter|Sorcerer,2,18,14,Human,"Longbow|Crossbow, Heavy|Rapier|Crossbow, Light"
