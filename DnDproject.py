@@ -39,34 +39,38 @@ cols = list(data.columns)
 data = data[cols]
 
 #%%
-bg = data['background'].value_counts().rename_axis('Background').reset_index(name='Counts')
-j_class = data['justClass'].value_counts().rename_axis('Class_name').reset_index(name='Counts')
-p_race = data['processedRace'].value_counts().rename_axis('Race').reset_index(name='Counts')
-p_weapons = data['processedWeapons'].value_counts().rename_axis('Weapons').reset_index(name='Counts')
-print()
+
+j_class = data['justClass'].value_counts().rename_axis('Feature').reset_index(name='Counts')
+p_race = data['processedRace'].value_counts().rename_axis('Feature').reset_index(name='Counts')
+bg = data['background'].value_counts().rename_axis('Feature').reset_index(name='Counts')
+p_weapons = data['processedWeapons'].value_counts().rename_axis('Feature').reset_index(name='Counts')
+
         
 #%%
-plt.pie(j_class['Counts'], labels=j_class['Class_name'], shadow= True,autopct='%1.1f%%')
-plt.axis('equal')
-plt.title('Player Classes')
-plt.show()
-
-plt.pie(p_race['Counts'], labels=p_race['Race'], shadow= True,autopct='%1.1f%%')
-plt.axis('equal')
-plt.title('Player Races')
-plt.show()
+#create pie charts
+def pie_chart(x):
+    plt.pie(x['Counts'], labels= x['Feature'], shadow= True,autopct='%1.1f%%')
+    plt.axis('equal')
+    plt.title('Feature')
+    plt.show()
 
 #%%
-weapon = plt.barh(p_weapons['Weapons'][0:10],p_weapons['Counts'][0:10])
-plt.bar_label(weapon, fmt='%.0f')
-plt.title('Top 10 Player Weapons')
-plt.xlabel('Counts')
-plt.ylabel('Weapons')
-plt.show()
+bk = 'Background'
+w = 'Weapons'
+def vert_bar(x,y):
+    b = plt.bar(x['Feature'][0:5],x['Counts'][0:5])
+    plt.bar_label(b, fmt='%.0f')
+    plt.title('Top 5' + y)
+    plt.xlabel('Counts')
+    plt.ylabel('Feature: ' + y)
+    plt.show()
+def horz_bar(x,y):
+    b = plt.barh(x['Feature'][0:10],x['Counts'][0:10])
+    plt.bar_label(b, fmt='%.0f')
+    plt.title('Top 10' + y)
+    plt.xlabel('Counts')
+    plt.ylabel('Feature: ' + y)
+    plt.show()
 
-back = plt.barh(bg['Background'],bg['Counts'])
-plt.bar_label(back, fmt='%.0f')
-plt.title('Player Backgrounds')
-plt.xlabel('Counts')
-plt.ylabel('Backgrounds')
-plt.show()
+
+
