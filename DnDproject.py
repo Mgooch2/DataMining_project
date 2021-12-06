@@ -40,10 +40,7 @@ data['justClass'] = data['justClass'].str.split('[|]')
 data = data.explode('justClass').reset_index(drop=True)
 data['processedWeapons'] = data['processedWeapons'].str.split('[|]')
 data = data.explode('processedWeapons').reset_index(drop=True)
-# put columns into a list
-#cols = list(data.columns)
-#data = data[cols]
-#print(data)
+
 #%%
 # takes each column and splits into mini table of features and the count of each item in dataset
 j_class = data['justClass'].value_counts().rename_axis('Class').reset_index(name='Counts')
@@ -137,7 +134,7 @@ def d_tree(x,y):
     graph = pydotplus.graph_from_dot_data(data_tree)
     graph.write_png('mydecisiontree.png')
     img=pltimg.imread('mydecisiontree.png')
-    #imgplot = plt.imshow(img)
+    imgplot = plt.imshow(img)
     plt.show()
 
 
